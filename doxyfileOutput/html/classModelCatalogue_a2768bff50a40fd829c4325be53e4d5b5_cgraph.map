@@ -1,0 +1,11 @@
+<map id="ModelCatalogue::LoadPlugin" name="ModelCatalogue::LoadPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,212,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="463,29,552,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,27,284,12,350,10,415,14,457,23,456,28,414,19,349,15,284,17,171,32"/>
+<area shape="rect" id="Node000003" href="$namespaceMyWarning.html#add7e76ba13173e6279654723eb8aa734" title=" " alt="" coords="270,29,405,55"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="212,39,256,39,256,45,212,45"/>
+<area shape="rect" id="Node000004" href="$namespaceMyWarning.html#abdca39d13507c6088a112809f38248e3" title=" " alt="" coords="260,79,415,104"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="169,52,265,73,264,78,168,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="479,31,473,21,476,11,488,5,507,3,530,6,540,15,537,19,528,11,507,8,490,10,481,15,479,20,484,28"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="381,76,448,56,450,61,383,81"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="CellBase::SetBoundary" name="CellBase::SetBoundary">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,176,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="224,29,313,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,39,210,39,210,45,176,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="239,31,233,21,236,11,249,5,269,3,293,6,303,15,300,19,291,11,269,8,250,10,240,15,238,20,244,28"/>
+</map>

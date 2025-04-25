@@ -1,0 +1,15 @@
+<map id="Main::XMLSettingsTree" name="Main::XMLSettingsTree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,176,56"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="729,44,819,70"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,28,224,16,352,5,453,4,554,12,682,30,719,38,717,43,681,36,553,17,453,9,353,11,224,21,146,33"/>
+<area shape="rect" id="Node000003" href="$classMainBase.html#a34c7908fa2a50ddd2c68df07bfb47770" title=" " alt="" coords="224,31,427,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="176,41,210,41,210,46,176,46"/>
+<area shape="rect" id="Node000005" href="$classMainBase.html#af78db0b35a32257581396b4f6f3b1baa" title=" " alt="" coords="475,119,681,144"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="162,54,224,65,494,114,493,119,224,70,161,59"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="742,46,735,36,739,26,752,20,774,18,801,21,812,30,809,34,799,26,774,23,753,25,742,30,740,35,746,43"/>
+<area shape="poly" id="edge6_Node000003_Node000002" title=" " alt="" coords="427,44,716,53,716,58,427,49"/>
+<area shape="rect" id="Node000004" href="$xmlwrite_8h.html#a002dc05a0ed32bd1b2941d44c5006943" title=" " alt="" coords="531,70,625,95"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="409,54,518,70,517,76,408,59"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="625,73,715,62,716,67,626,79"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="645,116,680,105,741,74,743,79,682,110,646,121"/>
+</map>

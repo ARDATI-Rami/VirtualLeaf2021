@@ -1,0 +1,5 @@
+<map id="WallBase::Transporters2" name="WallBase::Transporters2">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,13,377,38"/>
+<area shape="rect" id="Node000002" href="$classTransporterDialog.html#a2bd5d7ae9b0bccbb433c4c86d31ea660" title=" " alt="" coords="5,5,151,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,28,151,28,151,23,185,23"/>
+</map>

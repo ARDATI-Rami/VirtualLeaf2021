@@ -1,0 +1,7 @@
+<map id="NodeBase::insertWallElement" name="NodeBase::insertWallElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="469,13,684,38"/>
+<area shape="rect" id="Node000002" href="$classNode.html#aeb34db69e7f22ae2176b5ef2cd99db53" title=" " alt="" coords="240,13,421,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,28,422,28,422,23,456,23"/>
+<area shape="rect" id="Node000003" href="$classNode.html#ab4ce4ea0d8f4c2d84dd6ea702567d469" title=" " alt="" coords="5,5,192,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,28,192,28,192,23,226,23"/>
+</map>

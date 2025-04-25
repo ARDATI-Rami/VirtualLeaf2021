@@ -1,0 +1,9 @@
+<map id="chainHull_2D" name="chainHull_2D">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,113,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="267,29,356,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,39,253,39,253,45,114,45"/>
+<area shape="rect" id="Node000003" href="$hull_8cpp.html#a1c45750c2758d03b8387378f556b4ee8" title=" " alt="" coords="161,55,219,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="114,50,149,57,147,62,113,55"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="290,30,286,21,288,11,297,5,311,3,328,6,335,14,331,18,325,11,311,8,299,10,293,14,292,20,295,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="218,59,253,52,254,57,219,64"/>
+</map>

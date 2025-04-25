@@ -1,0 +1,8 @@
+<map id="CellTypes::SetCellColor" name="CellTypes::SetCellColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,177,68"/>
+<area shape="rect" id="Node000002" href="$classCellBase.html#a9d23b63ec2196a0cbfd63a4b73983ae4" title=" " alt="" coords="225,5,368,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,40,213,31,214,36,162,45"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="252,79,341,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,65,238,78,237,84,164,71"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="263,80,256,70,259,60,273,54,297,52,325,56,337,65,333,69,323,61,297,57,275,59,263,64,261,70,267,77"/>
+</map>

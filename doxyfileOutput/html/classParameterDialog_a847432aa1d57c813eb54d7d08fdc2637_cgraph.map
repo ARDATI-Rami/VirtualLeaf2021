@@ -1,0 +1,17 @@
+<map id="ParameterDialog::ParameterDialog" name="ParameterDialog::ParameterDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,46,212,86"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="809,53,899,78"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,43,260,30,370,13,457,5,545,4,656,12,735,26,805,46,803,51,734,32,656,18,545,9,458,10,371,19,260,35,191,48"/>
+<area shape="rect" id="Node000003" href="$classParameterDialog.html#a9de6b8ad6285bf4545a2f04fac82da2a" title=" " alt="" coords="480,28,656,53"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="212,57,466,43,466,49,213,63"/>
+<area shape="rect" id="Node000004" href="$Library_2parameter_8cpp.html#a5ed73287aa4f1b7700534762ee6ac3e9" title=" " alt="" coords="704,78,761,104"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="212,67,690,87,690,92,212,72"/>
+<area shape="rect" id="Node000005" href="$classParameterDialog.html#a66728099de9394a941f60f2c82ae7dd7" title=" " alt="" coords="260,129,432,154"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="173,83,293,122,292,127,171,88"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="833,54,829,44,831,35,840,29,854,26,871,30,878,38,874,41,868,34,854,32,842,34,836,38,834,44,838,52"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="657,45,796,58,795,63,656,51"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="611,51,692,76,690,81,609,56"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="761,82,795,75,796,80,762,88"/>
+<area shape="poly" id="edge9_Node000005_Node000002" title=" " alt="" coords="432,145,504,146,587,142,675,133,761,114,793,100,822,84,825,88,796,105,762,119,676,138,587,148,504,151,432,150"/>
+<area shape="poly" id="edge10_Node000005_Node000003" title=" " alt="" coords="374,126,526,56,528,61,376,131"/>
+</map>

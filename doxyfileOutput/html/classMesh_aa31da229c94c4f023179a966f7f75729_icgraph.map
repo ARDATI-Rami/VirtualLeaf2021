@@ -1,0 +1,12 @@
+<map id="Mesh::Clean" name="Mesh::Clean">
+<area shape="rect" id="Node000001" title=" " alt="" coords="533,35,636,60"/>
+<area shape="rect" id="Node000002" href="$classModelCatalogue.html#a0e8d6c6d9a54a5317211bd0c66f9c7fc" title=" " alt="" coords="5,5,221,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="519,46,222,27,222,22,520,41"/>
+<area shape="rect" id="Node000003" href="$classModelCatalogue.html#ac2ab5ac5fe57ecfa1cc9d8327cd05372" title=" " alt="" coords="269,60,485,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="520,58,481,63,481,57,519,53"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="302,60,175,33,176,28,303,55"/>
+<area shape="rect" id="Node000004" href="$classModelCatalogue.html#a4867f322c6342563ec81cb174612c73e" title=" " alt="" coords="11,55,215,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="256,77,216,77,215,72,256,71"/>
+<area shape="rect" id="Node000005" href="$classModelCatalogue.html#a00f79493d423ba123c707cd1de85d0c5" title=" " alt="" coords="17,119,210,159"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="314,91,194,122,193,117,312,86"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="FigureEditor::clear" name="FigureEditor::clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="421,5,561,31"/>
+<area shape="rect" id="Node000002" href="$classMain.html#a6efdee24ab4e25c89bda9124bd8d2482" title=" " alt="" coords="279,5,373,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,21,374,21,374,15,407,15"/>
+<area shape="rect" id="Node000003" href="$classMain.html#a186c25350550cac29f1da49153b0104c" title=" " alt="" coords="148,5,231,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="265,21,231,21,231,15,265,15"/>
+<area shape="rect" id="Node000004" href="$classMain.html#a71c203ef611a70fb61bc2ad369013711" title=" " alt="" coords="5,5,100,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,21,100,21,100,15,134,15"/>
+</map>

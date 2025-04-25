@@ -1,0 +1,11 @@
+<map id="WallElementInfo::setLength" name="WallElementInfo::setLength">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,207,55"/>
+<area shape="rect" id="Node000002" href="$classWallElementInfo.html#a630495a3a840aa2c147d6d817d24e505" title=" " alt="" coords="255,29,461,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,39,241,39,241,45,207,45"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="616,29,705,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,39,603,39,603,45,462,45"/>
+<area shape="rect" id="Node000004" href="$sqr_8h.html#aeb366c01b6ed284d23a04f6e9ea8c8b6" title=" " alt="" coords="509,55,568,80"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="449,52,496,59,496,64,448,57"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="640,30,636,21,638,11,646,5,661,3,677,6,685,14,681,18,675,11,661,8,649,10,642,14,641,20,645,28"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="568,59,602,51,603,57,569,64"/>
+</map>

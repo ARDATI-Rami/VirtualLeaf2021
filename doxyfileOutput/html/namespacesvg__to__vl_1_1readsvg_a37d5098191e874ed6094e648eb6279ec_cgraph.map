@@ -1,0 +1,9 @@
+<map id="svg_to_vl.readsvg.readNodesFromPath" name="svg_to_vl.readsvg.readNodesFromPath">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,22,220,62"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="523,29,612,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,36,268,35,475,35,509,36,509,42,475,41,268,41,220,42"/>
+<area shape="rect" id="Node000003" href="$namespacesvg__to__vl_1_1readsvg.html#ab499f666474ad1116e72cb3699a987b4" title=" " alt="" coords="268,50,475,90"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="221,51,254,55,254,60,220,56"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="535,31,528,21,532,11,545,5,567,3,594,6,605,15,602,19,592,11,567,8,547,10,536,15,534,20,539,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="475,53,509,48,510,53,475,58"/>
+</map>

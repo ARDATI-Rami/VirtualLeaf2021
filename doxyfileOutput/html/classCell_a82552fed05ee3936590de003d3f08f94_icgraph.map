@@ -1,0 +1,19 @@
+<map id="Cell::Offset" name="Cell::Offset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="279,193,373,219"/>
+<area shape="rect" id="Node000002" href="$classApoplastItem.html#a776ebbcf6f76afa850217c853e3aa7f5" title=" " alt="" coords="16,5,220,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,181,303,149,285,112,260,75,229,44,209,33,212,28,232,40,265,71,290,109,308,147,320,179"/>
+<area shape="rect" id="Node000003" href="$classBoundaryPolygon.html#a271b60981a8e00dcbf15631013814d0c" title=" " alt="" coords="29,55,207,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,183,277,137,255,113,229,94,206,83,208,78,232,89,258,109,281,133,314,180"/>
+<area shape="rect" id="Node000004" href="$classFigureEditor.html#aa1591470e9e4bc85ca106479c3893ec5" title=" " alt="" coords="5,104,231,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="297,187,266,164,230,144,192,132,194,127,232,140,269,160,301,182"/>
+<area shape="rect" id="Node000005" href="$classFigureEditor.html#ad46e325fc23ce1c9614e73149b3fb7d8" title=" " alt="" coords="25,154,211,194"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="265,199,211,191,212,186,265,194"/>
+<area shape="rect" id="Node000006" href="$classFigureEditor.html#a10075108c017c95c39e0c41bac40dcbe" title=" " alt="" coords="16,218,220,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="265,218,221,225,220,220,265,213"/>
+<area shape="rect" id="Node000007" href="$classMesh.html#a5b7eae967fb8d755ac863ecd91c4ea0b" title=" " alt="" coords="66,283,170,308"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="301,230,269,252,232,272,171,290,170,285,230,268,266,248,297,225"/>
+<area shape="rect" id="Node000008" href="$classWall.html#a96785655af3824f670fd4313e4b803e0" title="Visualize contents of the apoplast." alt="" coords="42,332,194,357"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="313,232,280,278,258,302,232,322,195,337,193,332,229,317,254,298,276,275,309,229"/>
+<area shape="rect" id="Node000009" href="$classWallItem.html#a4b0a8e5e900cd34ae403bacd8bec36ca" title=" " alt="" coords="45,381,191,407"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="320,233,308,265,289,302,264,339,232,371,213,382,192,389,191,384,211,377,229,367,260,336,285,300,303,263,315,231"/>
+</map>

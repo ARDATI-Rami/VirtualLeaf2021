@@ -1,0 +1,15 @@
+<map id="svg_to_vl.readsvg.readNodesFromSvg" name="svg_to_vl.readsvg.readNodesFromSvg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,36,220,76"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="785,68,875,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,39,268,34,400,20,505,6,555,3,608,5,668,13,738,28,772,41,801,58,799,63,770,46,737,33,667,18,608,10,555,8,505,11,401,25,268,40,221,44"/>
+<area shape="rect" id="Node000003" href="$namespacesvg__to__vl_1_1readsvg.html#ac1e620fc328d7400d3d5b8a22c648d34" title=" " alt="" coords="532,43,736,68"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="220,53,518,53,518,58,220,58"/>
+<area shape="rect" id="Node000004" href="$namespacesvg__to__vl_1_1readsvg.html#a37d5098191e874ed6094e648eb6279ec" title=" " alt="" coords="268,93,483,133"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="206,73,270,88,269,93,204,78"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="798,70,791,60,795,50,808,44,830,42,857,45,868,54,865,58,855,50,830,47,809,49,798,54,796,59,802,67"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="733,66,772,71,771,76,732,71"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="483,103,771,83,771,88,483,108"/>
+<area shape="rect" id="Node000005" href="$namespacesvg__to__vl_1_1readsvg.html#ab499f666474ad1116e72cb3699a987b4" title=" " alt="" coords="531,144,737,184"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="478,131,519,139,518,144,477,136"/>
+<area shape="poly" id="edge8_Node000005_Node000002" title=" " alt="" coords="690,141,736,123,790,98,792,102,738,128,692,146"/>
+</map>

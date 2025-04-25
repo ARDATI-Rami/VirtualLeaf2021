@@ -1,0 +1,7 @@
+<map id="InfoBar::SetText" name="InfoBar::SetText">
+<area shape="rect" id="Node000001" title=" " alt="" coords="212,31,337,56"/>
+<area shape="rect" id="Node000002" href="$classInfoBar.html#a5b70c8affc8b8efb09f2a3bac99128f7" title=" " alt="" coords="23,5,147,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,36,146,29,147,24,199,31"/>
+<area shape="rect" id="Node000003" href="$classMain.html#a1b7a8b49d766ac1cdfc7148df582213d" title=" " alt="" coords="5,55,164,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,56,165,60,164,55,198,50"/>
+</map>

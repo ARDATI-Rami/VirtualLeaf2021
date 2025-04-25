@@ -1,0 +1,14 @@
+<map id="WallElementInfo::getCell" name="WallElementInfo::getCell">
+<area shape="rect" id="Node000001" title=" " alt="" coords="551,70,733,95"/>
+<area shape="rect" id="Node000002" href="$classsvg__to__vl_1_1cellmodel_1_1Mesh.html#a0fd72db4ad334030241127365a2ca122" title=" " alt="" coords="268,5,503,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="571,70,475,48,476,43,572,64"/>
+<area shape="rect" id="Node000003" href="$classNode.html#aeb34db69e7f22ae2176b5ef2cd99db53" title=" " alt="" coords="295,70,476,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="537,85,476,85,476,80,537,80"/>
+<area shape="rect" id="Node000005" href="$classWallElementInfo.html#a5c9d44a69cb14885a44e33a4da93337f" title=" " alt="" coords="289,143,481,169"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="584,102,432,146,430,141,583,97"/>
+<area shape="rect" id="Node000004" href="$classNode.html#ab4ce4ea0d8f4c2d84dd6ea702567d469" title=" " alt="" coords="19,63,206,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="281,85,206,85,206,80,281,80"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="431,134,428,129,420,126,385,122,358,124,343,129,340,134,348,141,344,145,335,135,340,125,357,119,385,117,421,121,432,125,436,131"/>
+<area shape="rect" id="Node000006" href="$classWallElementInfo.html#a3147b28cf7dc50b0ec9e660967eead4c" title=" " alt="" coords="5,143,220,169"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="275,159,220,159,220,153,275,153"/>
+</map>

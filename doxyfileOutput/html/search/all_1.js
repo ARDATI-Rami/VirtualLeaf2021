@@ -1,0 +1,14 @@
+var searchData=
+[
+  ['1_20source_20code_0',['1 source code',['../md_src_2python_2license.html#autotoc_md3',1,'1. Source Code'],['../md_src_2python__cambium_2license.html#autotoc_md24',1,'1. Source Code']]],
+  ['10_20automatic_20licensing_20of_20downstream_20recipients_1',['10 automatic licensing of downstream recipients',['../md_src_2python_2license.html#autotoc_md12',1,'10. Automatic Licensing of Downstream Recipients'],['../md_src_2python__cambium_2license.html#autotoc_md33',1,'10. Automatic Licensing of Downstream Recipients']]],
+  ['11_20patents_2',['11 patents',['../md_src_2python__cambium_2license.html#autotoc_md34',1,'11. Patents'],['../md_src_2python_2license.html#autotoc_md13',1,'11. Patents']]],
+  ['12_20no_20surrender_20of_20others_20freedom_3',['12 no surrender of others freedom',['../md_src_2python__cambium_2license.html#autotoc_md35',1,'12. No Surrender of Others&apos; Freedom'],['../md_src_2python_2license.html#autotoc_md14',1,'12. No Surrender of Others&apos; Freedom']]],
+  ['13_20use_20with_20the_20gnu_20affero_20general_20public_20license_4',['13 use with the gnu affero general public license',['../md_src_2python_2license.html#autotoc_md15',1,'13. Use with the GNU Affero General Public License'],['../md_src_2python__cambium_2license.html#autotoc_md36',1,'13. Use with the GNU Affero General Public License']]],
+  ['14_20revised_20versions_20of_20this_20license_5',['14 revised versions of this license',['../md_src_2python_2license.html#autotoc_md16',1,'14. Revised Versions of this License'],['../md_src_2python__cambium_2license.html#autotoc_md37',1,'14. Revised Versions of this License']]],
+  ['15_20and_2016_6',['15 and 16',['../md_src_2python_2license.html#autotoc_md19',1,'17. Interpretation of Sections 15 and 16'],['../md_src_2python__cambium_2license.html#autotoc_md40',1,'17. Interpretation of Sections 15 and 16']]],
+  ['15_20disclaimer_20of_20warranty_7',['15 disclaimer of warranty',['../md_src_2python_2license.html#autotoc_md17',1,'15. Disclaimer of Warranty'],['../md_src_2python__cambium_2license.html#autotoc_md38',1,'15. Disclaimer of Warranty']]],
+  ['16_8',['16',['../md_src_2python_2license.html#autotoc_md19',1,'17. Interpretation of Sections 15 and 16'],['../md_src_2python__cambium_2license.html#autotoc_md40',1,'17. Interpretation of Sections 15 and 16']]],
+  ['16_20limitation_20of_20liability_9',['16 limitation of liability',['../md_src_2python_2license.html#autotoc_md18',1,'16. Limitation of Liability'],['../md_src_2python__cambium_2license.html#autotoc_md39',1,'16. Limitation of Liability']]],
+  ['17_20interpretation_20of_20sections_2015_20and_2016_10',['17 interpretation of sections 15 and 16',['../md_src_2python_2license.html#autotoc_md19',1,'17. Interpretation of Sections 15 and 16'],['../md_src_2python__cambium_2license.html#autotoc_md40',1,'17. Interpretation of Sections 15 and 16']]]
+];

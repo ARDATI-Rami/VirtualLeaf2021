@@ -1,0 +1,6 @@
+<map id="svg_to_vl.cellmodel.Mesh.wallsToSplit" name="svg_to_vl.cellmodel.Mesh.wallsToSplit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,22,235,62"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="283,29,372,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,39,269,39,269,45,235,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="294,31,286,21,290,11,304,5,327,3,356,6,367,15,364,20,354,11,327,8,305,10,294,15,292,20,298,28"/>
+</map>

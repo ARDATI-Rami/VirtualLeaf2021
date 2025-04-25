@@ -1,0 +1,7 @@
+<map id="ApoplastItem" name="ApoplastItem">
+<area shape="rect" id="Node000001" title="Shows transporter concentrations at one side of the wall." alt="" coords="100,79,209,104"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,152,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,38,144,76,140,80,99,42"/>
+<area shape="rect" id="Node000003" href="$classSimItemBase.html" title=" " alt="" coords="176,5,285,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,42,169,80,165,76,207,38"/>
+</map>

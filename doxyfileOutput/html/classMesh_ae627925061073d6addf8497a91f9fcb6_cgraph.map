@@ -1,0 +1,20 @@
+<map id="Mesh::RepairBoundaryPolygon" name="Mesh::RepairBoundaryPolygon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,227,132"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="597,57,687,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,104,274,91,443,77,583,69,584,75,443,82,275,97,188,109"/>
+<area shape="rect" id="Node000003" href="$classCell.html#a9847d91d0ac41c6180ecbf4ab7691c66" title=" " alt="" coords="291,5,489,31"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="142,104,202,77,274,47,323,32,325,37,276,53,204,82,144,109"/>
+<area shape="rect" id="Node000004" href="$classCellBase.html#ae14aed43315010dfbff36b5c595f87a0" title=" " alt="" coords="275,107,505,132"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="227,117,261,117,261,122,227,122"/>
+<area shape="rect" id="Node000006" href="$classMesh.html#acd0691587b4543457dcc35efbd878006" title=" " alt="" coords="282,156,498,181"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="188,129,305,151,304,156,187,135"/>
+<area shape="rect" id="Node000007" href="$classNode.html#af6fde2a14ec7677cdf7343689f24b16a" title=" " alt="" coords="592,181,692,207"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="138,130,198,163,236,179,275,191,356,204,438,207,514,205,578,200,579,205,515,210,438,213,356,209,274,197,234,184,195,168,135,134"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="601,59,593,49,597,39,614,33,642,31,677,35,687,39,691,45,687,48,684,43,676,40,642,36,615,38,601,43,598,48,605,55"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="453,28,584,56,583,61,452,33"/>
+<area shape="poly" id="edge7_Node000004_Node000002" title=" " alt="" coords="455,104,583,79,584,84,456,109"/>
+<area shape="rect" id="Node000005" href="$classCellBase.html#abbe8aff453efb1a6071286d34e6cef7f" title=" " alt="" coords="553,107,731,132"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="505,117,540,117,540,122,505,122"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="475,153,504,141,518,130,527,117,537,104,552,92,583,78,585,83,555,96,540,108,532,120,522,133,507,146,477,158"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="498,177,578,185,578,190,498,182"/>
+</map>

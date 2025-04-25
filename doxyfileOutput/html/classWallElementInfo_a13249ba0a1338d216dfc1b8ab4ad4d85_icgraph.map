@@ -1,0 +1,8 @@
+<map id="WallElementInfo::hasWallElement" name="WallElementInfo::hasWallElement">
+<area shape="rect" id="Node000001" title=" " alt="" coords="508,22,696,62"/>
+<area shape="rect" id="Node000002" href="$classWallElementInfo.html#a5c9d44a69cb14885a44e33a4da93337f" title=" " alt="" coords="268,29,460,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,45,460,45,460,39,495,39"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="407,20,395,11,364,8,339,10,325,15,322,20,329,27,325,31,317,21,321,11,337,5,364,3,397,7,410,16"/>
+<area shape="rect" id="Node000003" href="$classWallElementInfo.html#a3147b28cf7dc50b0ec9e660967eead4c" title=" " alt="" coords="5,29,220,55"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="255,45,220,45,220,39,255,39"/>
+</map>

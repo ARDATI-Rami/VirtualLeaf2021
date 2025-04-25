@@ -1,0 +1,25 @@
+<map id="Mesh::AddCell" name="Mesh::AddCell">
+<area shape="rect" id="Node000001" title=" " alt="" coords="716,137,831,163"/>
+<area shape="rect" id="Node000002" href="$classCell.html#a2cd6f7a750bd2e8cce2ef0b60940a377" title=" " alt="" coords="517,63,649,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="735,133,667,102,633,91,635,85,669,97,738,128"/>
+<area shape="rect" id="Node000007" href="$classMesh.html#a21d59e25b3ae67483296f8c6584fa2e6" title=" " alt="" coords="516,112,651,137"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="702,143,650,136,651,131,703,138"/>
+<area shape="rect" id="Node000010" href="$classMesh.html#a2ace6e38b5097158f8fed8368e47042b" title=" " alt="" coords="499,161,668,187"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="703,162,669,166,668,161,702,156"/>
+<area shape="rect" id="Node000011" href="$classMesh.html#a6e09f159713d0442e2a05ad1d4dbb409" title=" " alt="" coords="499,211,667,236"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="737,171,669,202,635,213,633,208,667,197,735,166"/>
+<area shape="rect" id="Node000003" href="$classCell.html#a855aa3231845f29240ada62ad7f9bc7a" title=" " alt="" coords="276,9,432,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="514,62,409,37,410,32,515,57"/>
+<area shape="rect" id="Node000005" href="$classCell.html#a5f035ebe86b23f7a81544d559b1f0c02" title=" " alt="" coords="257,63,451,88"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="504,78,451,78,451,73,504,73"/>
+<area shape="rect" id="Node000004" href="$classCell.html#ad6703af31e1bb434c67b26e5f7ea1193" title=" " alt="" coords="59,5,156,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="262,23,156,21,156,16,262,18"/>
+<area shape="rect" id="Node000006" href="$classFigureEditor.html#a10075108c017c95c39e0c41bac40dcbe" title=" " alt="" coords="5,55,209,95"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="244,78,210,78,210,73,244,73"/>
+<area shape="rect" id="Node000008" href="$classMesh.html#a67d5273068466b54a959992274a83f1c" title=" " alt="" coords="284,116,424,141"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="502,129,424,130,424,125,502,123"/>
+<area shape="rect" id="Node000009" href="$classMesh.html#aab4cad8d76086c89e5597b9297d11c12" title=" " alt="" coords="35,120,179,145"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="270,133,179,134,179,129,270,127"/>
+<area shape="rect" id="Node000012" href="$classMesh.html#afe9f9f6656dc8d4adc9cf1c63bb23731" title=" " alt="" coords="294,211,414,236"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="485,226,414,226,414,221,485,221"/>
+</map>

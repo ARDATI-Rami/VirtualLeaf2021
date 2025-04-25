@@ -1,0 +1,9 @@
+<map id="MeinhardtPlugin" name="MeinhardtPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,133,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="16,93,91,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,132,69,167,64,168,56,133"/>
+<area shape="rect" id="Node000003" href="$classSimPluginInterface.html" title=" " alt="" coords="115,93,261,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,128,90,170,87,166,156,124"/>
+<area shape="rect" id="Node000004" href="$classParameter.html" title=" " alt="" coords="143,5,233,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="191,45,191,93,185,93,185,45"/>
+</map>

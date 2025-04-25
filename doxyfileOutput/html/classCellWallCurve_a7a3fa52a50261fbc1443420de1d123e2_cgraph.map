@@ -1,0 +1,11 @@
+<map id="CellWallCurve::check_overlap" name="CellWallCurve::check_overlap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,164,103"/>
+<area shape="rect" id="Node000002" href="$classCellWallCurve.html#ab907e409b3b7d8bfeff09bf4d09b480b" title=" " alt="" coords="212,5,371,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,60,205,47,206,52,158,65"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="419,42,508,67"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="164,74,405,56,405,62,165,79"/>
+<area shape="rect" id="Node000004" href="$classCellWallCurve.html#a1c123aea5ec0cde28692cd4965a8c409" title=" " alt="" coords="214,121,369,146"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="165,100,226,115,225,120,164,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,36,405,42,404,47,370,42"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="435,43,429,34,432,24,444,18,463,15,487,19,497,27,493,31,484,24,463,21,445,23,436,27,434,33,439,40"/>
+</map>

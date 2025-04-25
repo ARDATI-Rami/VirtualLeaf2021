@@ -1,0 +1,11 @@
+<map id="NodeItem::setBrush" name="NodeItem::setBrush">
+<area shape="rect" id="Node000001" title=" " alt="" coords="472,31,623,56"/>
+<area shape="rect" id="Node000002" href="$classFigureEditor.html#a5fc367231c7af035282c5691bbca17cd" title=" " alt="" coords="197,5,424,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,37,424,33,424,27,459,31"/>
+<area shape="rect" id="Node000003" href="$classNodeItem.html#a0c1aede66d8d66a053806c9c9780cc7e" title=" " alt="" coords="237,55,385,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="459,55,385,63,384,57,458,50"/>
+<area shape="rect" id="Node000004" href="$classNodeItem.html#ac59a07fcd5b970eafdea9810fa4e336e" title=" " alt="" coords="5,29,149,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,60,149,52,150,47,223,55"/>
+<area shape="rect" id="Node000005" href="$classNodeItem.html#a0f833214b26d79eab139ea207ea6f3d8" title=" " alt="" coords="5,79,149,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="223,79,150,87,149,81,222,74"/>
+</map>

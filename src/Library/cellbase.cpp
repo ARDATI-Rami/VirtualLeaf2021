@@ -59,50 +59,64 @@ CellsStaticDatamembers *CellBase::static_data_members = new CellsStaticDatamembe
 CellsStaticDatamembers *CellBase::static_data_members = 0;
 #endif
 
-CellBase::CellBase(QObject *parent) : 
+
+CellBase::CellBase(QObject *parent) :
   QObject(parent),
   Vector()
+
 {
 
-  chem=new double[NChem()];
-  for (int i=0;i<NChem();i++) {
-    chem[i]=0.;
+  chem = new double[NChem()];
+  for (int i = 0; i < NChem(); i++) {
+    chem[i] = 0.;
   }
-  new_chem=new double[NChem()];
-  for (int i=0;i<NChem();i++) {
-    new_chem[i]=0.;
+
+  new_chem = new double[NChem()];
+  for (int i = 0; i < NChem(); i++) {
+    new_chem[i] = 0.;
   }
-  boundary=None;
-  index=(NCells()++);
-  area=0.;
-  target_area=1;
-  target_length=0; //par.target_length;
-  lambda_celllength = 0; //par.lambda_celllength;
-  intgrl_xx=0.; intgrl_xy=0.; intgrl_yy=0.;
-  intgrl_x=0.; intgrl_y=0.;
+
+  boundary = None;
+  index = (NCells()++);
+
+  area = 0.;
+  target_area = 1;
+  target_length = 0;
+
+  lambda_celllength = 0;
+
+
+  intgrl_xx = 0.; intgrl_xy = 0.; intgrl_yy = 0.;
+  intgrl_x  = 0.; intgrl_y  = 0.;
+
   source = false;
   source_conc = 0.;
   source_chem = 0;
-  at_boundary=false;
+
+  at_boundary = false;
   fixed = false;
   pin_fixed = false;
   wall_stiffness = 1;
   veto_remodelling = false;
   marked = false;
   dead = false;
-  div_counter=0;
+  div_counter = 0;
   cell_type = 0;
   flag_for_divide = false;
   division_axis = 0;
 }
 
 
-CellBase::CellBase(double x,double y,double z) : QObject(), Vector(x,y,z)
+CellBase::CellBase(double x,double y,double z) :
+    QObject(),
+    Vector(x,y,z)
+
 {
 #ifndef VLEAFPLUGIN
   if (static_data_members == 0) {
     static_data_members = new CellsStaticDatamembers();
   }
+
 #endif
   chem=new double[NChem()];
   for (int i=0;i<NChem();i++) {
@@ -137,7 +151,10 @@ CellBase::CellBase(double x,double y,double z) : QObject(), Vector(x,y,z)
   division_axis = 0;
 }
 
-CellBase::CellBase(const CellBase &src) :  QObject(), Vector(src)
+
+CellBase::CellBase(const CellBase &src) :
+    QObject(),
+    Vector(src) // Encore la même chose sauf que cette fois-ci c'est à partir des coordonnées de la cellule src
 {
 
   chem=new double[NChem()];
@@ -177,7 +194,6 @@ CellBase::CellBase(const CellBase &src) :  QObject(), Vector(src)
   flag_for_divide = src.flag_for_divide;
   division_axis = src.division_axis;
 }
-
 
 CellBase CellBase::operator=(const CellBase &src)
 {
@@ -287,26 +303,34 @@ ostream &operator<<(ostream &os, const CellBase &c)
 }
 
 
-double CellBase::CalcArea(void) const
+double CellBase::CalcArea(void) const // Méthode de cellbase qui calcule de l'aire d'une cellule dans la simulation
 {
-
+  // Initialize local variable to store the area
   double loc_area=0.;
 
+  // Iterate through all nodes of the cell
   for (list<Node *>::const_iterator i=nodes.begin(); i!=(nodes.end()); i++) {
 
+    // Get next node (wrapping around to first node if we're at the end)
     list<Node *>::const_iterator i_plus_1=i; i_plus_1++;
     if (i_plus_1==nodes.end())
       i_plus_1=nodes.begin();
 
-    loc_area+= (*i)->x * (*i_plus_1)->y;
-    loc_area-= (*i_plus_1)->x * (*i)->y;
+    // Apply shoelace formula (also known as surveyor's formula)
+    // This formula calculates the area of a polygon by taking cross products
+    // of consecutive vertices
+    loc_area+= (*i)->x * (*i_plus_1)->y;     // Add x1*y2
+    loc_area-= (*i_plus_1)->x * (*i)->y;     // Subtract x2*y1
   }
 
-  // http://technology.niagarac.on.ca/courses/ctec1335/docs/arrays2.pdf	
-  return fabs(loc_area)/2.0; 
-} 
+  // Return absolute value of area divided by 2
+  // We divide by 2 because the shoelace formula gives twice the area
+  // We use absolute value because the area could be negative depending on vertex order
+  return fabs(loc_area)/2.0;
+}
 
-Vector CellBase::Centroid(void) const
+
+Vector CellBase::Centroid(void) const // Méthode de cellbase qui calcule le centroïde de la cellule (centre de masse)
 {
 
   double area=0.;
@@ -399,6 +423,7 @@ double CellBase::Length(Vector *long_axis, double *width)  const
 
   // Calculate inertia tensor
   // see file inertiatensor.nb for explanation of this method
+
   if (!lambda_celllength) {
 
     // Without length constraint we do not keep track of the cells'

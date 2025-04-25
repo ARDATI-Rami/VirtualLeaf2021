@@ -45,15 +45,11 @@ int LateralRoot::NChem(void) { return 1; }
 void LateralRoot::OnDivide(ParentInfo *parent_info, CellBase *daughter1, CellBase *daughter2) {
   // rules to be executed after cell division go here
   // (e.g., cell differentiation rules)
-	if (daughter1->CellType()==3) {
-		if (daughter1->Centroid().x < daughter2->Centroid().x) {
-			daughter1->SetChemical(0, 0.49);
-			daughter2->SetChemical(0, 1.);
-		}else {
-			daughter2->SetChemical(0, 0.49);
-			daughter1->SetChemical(0, 1.);
-		}
-	}
+    // Modifier le type de cellule si nécessaire
+    daughter1->SetCellType(0);  // Exemple pour attribuer un type à daughter1
+    daughter2->SetCellType(0);  // Exemple pour attribuer un autre type à daughter2
+
+    // Exemple de conditions supplémentaires
 }
 
 void LateralRoot::SetCellColor(CellBase *c, QColor *color) { 

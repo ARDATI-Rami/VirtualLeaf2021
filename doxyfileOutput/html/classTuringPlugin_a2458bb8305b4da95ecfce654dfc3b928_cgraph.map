@@ -1,0 +1,8 @@
+<map id="TuringPlugin::CelltoCellTransport" name="TuringPlugin::CelltoCellTransport">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,177,87"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="259,29,349,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,54,245,46,246,52,178,60"/>
+<area shape="rect" id="Node000003" href="$classTuringPlugin.html#af6cb8cf7d748cfdcd98ecf6f5193a85b" title=" " alt="" coords="225,79,383,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="178,74,212,78,211,84,177,80"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="269,31,262,21,266,11,280,5,304,3,333,6,345,15,342,20,331,11,304,8,282,10,270,15,267,20,274,28"/>
+</map>

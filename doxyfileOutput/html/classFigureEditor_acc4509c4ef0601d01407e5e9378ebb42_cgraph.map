@@ -1,0 +1,13 @@
+<map id="FigureEditor::insertNode" name="FigureEditor::insertNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,184,107"/>
+<area shape="rect" id="Node000002" href="$classMesh.html#a0b860d48b487ebdd3a50f61f8baa5fe4" title=" " alt="" coords="260,5,384,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,79,269,33,271,38,134,84"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="460,81,549,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,91,446,91,446,97,184,97"/>
+<area shape="rect" id="Node000004" href="$classFigureEditor.html#a4088496abdae9e85e8219262359b26e6" title=" " alt="" coords="232,107,412,132"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="184,101,219,105,218,110,184,107"/>
+<area shape="rect" id="Node000005" href="$VirtualLeaf_8cpp.html#a3e1213e7fb3ae94ab2b7310a31cfbada" title=" " alt="" coords="299,156,345,181"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="130,104,233,141,286,157,284,162,231,146,128,109"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="475,83,468,73,472,63,484,57,505,55,530,58,540,67,537,71,527,63,505,60,486,62,476,67,473,72,479,80"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="412,104,446,99,447,105,413,109"/>
+</map>

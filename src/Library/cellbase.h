@@ -205,6 +205,8 @@ class CellBase :  public QObject, public Vector
 
   inline void SetLambdaLength(double lambda_length) { lambda_celllength = lambda_length; }
 
+  inline double GetLambdaLength(void) const {return lambda_celllength;}
+
   inline double TargetArea(void) { return target_area; }
 
   inline double EnlargeTargetArea(double da) { return target_area+=da; }

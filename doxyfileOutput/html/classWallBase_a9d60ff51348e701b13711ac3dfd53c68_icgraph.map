@@ -1,0 +1,30 @@
+<map id="WallBase::N1" name="WallBase::N1">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1056,156,1164,181"/>
+<area shape="rect" id="Node000002" href="$classApoplastItem.html#a776ebbcf6f76afa850217c853e3aa7f5" title=" " alt="" coords="797,5,1001,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1094,145,1059,93,1035,66,1007,44,983,33,986,28,1009,40,1038,63,1063,90,1098,142"/>
+<area shape="rect" id="Node000003" href="$classCell.html#ac2ffde840f9c42072737c6b3efd02bd1" title=" " alt="" coords="792,55,1007,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1081,150,1047,125,1007,102,954,83,956,78,1009,97,1050,120,1084,145"/>
+<area shape="rect" id="Node000004" href="$classCell.html#a2cd6f7a750bd2e8cce2ef0b60940a377" title=" " alt="" coords="561,80,693,105"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="1049,155,1008,146,838,119,693,102,694,96,838,114,1008,141,1050,150"/>
+<area shape="rect" id="Node000009" href="$classCell.html#a3f63de2c0b2d0b90de32efe326508863" title=" " alt="" coords="809,156,989,181"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="1042,171,990,171,990,166,1042,166"/>
+<area shape="rect" id="Node000010" href="$classCellWallCurve.html#af5f10e57a37588c6cc00bcafdfae91df" title=" " alt="" coords="791,206,1008,246"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1050,188,974,209,973,203,1048,183"/>
+<area shape="rect" id="Node000013" href="$classWallBase.html#ae087343b224a6174b8d032f85f06aa2d" title="Return true if the WallBase adheres to the SAM (shoot apical meristem)" alt="" coords="832,271,967,296"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="1090,194,1055,229,1009,260,968,276,966,271,1007,256,1051,225,1087,190"/>
+<area shape="rect" id="Node000014" href="$classTransporterDialog.html#a2bd5d7ae9b0bccbb433c4c86d31ea660" title=" " alt="" coords="827,321,972,361"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1099,195,1065,253,1039,284,1009,311,974,329,971,324,1007,306,1035,281,1060,250,1095,193"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="779,81,694,89,693,84,778,76"/>
+<area shape="rect" id="Node000005" href="$classCell.html#a855aa3231845f29240ada62ad7f9bc7a" title=" " alt="" coords="283,56,439,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="547,88,439,78,439,73,548,83"/>
+<area shape="rect" id="Node000007" href="$classCell.html#a5f035ebe86b23f7a81544d559b1f0c02" title=" " alt="" coords="264,109,457,135"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="548,104,458,114,457,109,547,99"/>
+<area shape="rect" id="Node000006" href="$classCell.html#ad6703af31e1bb434c67b26e5f7ea1193" title=" " alt="" coords="59,53,156,79"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="269,70,156,69,156,64,269,65"/>
+<area shape="rect" id="Node000008" href="$classFigureEditor.html#a10075108c017c95c39e0c41bac40dcbe" title=" " alt="" coords="5,103,209,143"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="250,125,210,125,210,120,250,120"/>
+<area shape="rect" id="Node000011" href="$classCellWallCurve.html#a5f0a329e5a46337807f855a7490b2b72" title=" " alt="" coords="512,206,743,246"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="777,229,743,229,743,223,777,223"/>
+<area shape="rect" id="Node000012" href="$classCellWallCurve.html#a1672d365d0f34c4478d3c3b415ad8269" title=" " alt="" coords="257,213,464,239"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="498,229,464,229,464,223,498,223"/>
+</map>

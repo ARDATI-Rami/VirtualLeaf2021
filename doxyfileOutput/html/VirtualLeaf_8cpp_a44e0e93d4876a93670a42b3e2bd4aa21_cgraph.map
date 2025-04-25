@@ -1,0 +1,16 @@
+<map id="PINSum" name="PINSum">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,79,106"/>
+<area shape="rect" id="Node000002" href="$classCellBase.html#a02fcda676206ce90bf91c70fa4d92f26" title=" " alt="" coords="151,56,299,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,86,137,78,138,83,79,91"/>
+<area shape="rect" id="Node000006" href="$classCellBase.html#a877a2b731866a0c589665bceae385d3c" title="Sum transporters at this CellBase&#39;s side of the walls." alt="" coords="127,105,323,130"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="79,96,115,100,114,106,79,101"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="573,80,663,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="251,53,302,32,371,12,410,5,449,3,488,6,526,15,567,38,598,67,595,71,564,42,524,20,487,11,449,8,410,10,372,17,304,37,253,58"/>
+<area shape="rect" id="Node000004" href="$classCellBase.html#a68c5c922a198479bd2634defaad28e87" title=" " alt="" coords="381,30,515,56"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="299,57,367,49,367,55,299,62"/>
+<area shape="rect" id="Node000005" href="$namespaceMyWarning.html#abdca39d13507c6088a112809f38248e3" title=" " alt="" coords="371,80,525,105"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="299,73,357,80,356,85,299,79"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="590,81,584,71,587,61,599,55,618,53,641,56,651,65,647,69,639,61,618,58,600,60,591,65,589,70,594,78"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="526,90,560,90,560,95,526,95"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="323,121,421,122,525,115,566,106,567,111,526,120,421,128,323,127"/>
+</map>

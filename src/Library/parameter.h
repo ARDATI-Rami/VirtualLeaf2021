@@ -29,8 +29,6 @@
 #include "vector.h"
 #include <vector>
 
-#define DEFAULT_ELASTIC_LIMIT 1.15
-
 //#include <libxml/parser.h>
 //#include <libxml/tree.h>
 #include <QtXml>
@@ -115,9 +113,6 @@
   double k2van3;
   double dt;
   double rd_dt;
-  double elastic_modulus;
-  double elastic_limit;
-  int compatibility_level;
   bool movie;
   int nit;
   double maxt;
@@ -148,10 +143,11 @@
   double krs;
   double * k;
   int i1;
-  int i2;
+  double i2;
   bool b4;
   char * dir1;
   char * dir2;
+  int division_axis_type;
  private:
  };
 

@@ -1,0 +1,6 @@
+<map id="CellBase::ReduceCellAndWalls" name="CellBase::ReduceCellAndWalls">
+<area shape="rect" id="Node000001" title="The same, but now for the walls AND neighbors." alt="" coords="5,29,225,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="273,29,363,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,39,259,39,259,45,225,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="285,31,278,21,281,11,295,5,318,3,346,6,358,16,354,20,344,11,318,8,296,10,285,15,283,20,289,28"/>
+</map>

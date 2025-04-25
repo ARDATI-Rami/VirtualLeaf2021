@@ -1,0 +1,8 @@
+<map id="svg_to_vl.cellmodel.Mesh.splitParallelWalls" name="svg_to_vl.cellmodel.Mesh.splitParallelWalls">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,22,228,62"/>
+<area shape="rect" id="Node000002" href="$classsvg__to__vl_1_1cellmodel_1_1Mesh.html#ae7916df06cec2aa2627ccd59535f0d6c" title=" " alt="" coords="276,22,499,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,39,262,39,262,45,228,45"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="547,29,636,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="499,39,533,39,533,45,499,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="558,31,551,21,555,11,568,5,591,3,620,6,631,16,627,20,617,11,591,8,570,10,558,15,556,20,562,28"/>
+</map>

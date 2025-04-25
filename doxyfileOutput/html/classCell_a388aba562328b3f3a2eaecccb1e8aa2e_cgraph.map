@@ -1,0 +1,20 @@
+<map id="Cell::correctNeighbors" name="Cell::correctNeighbors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,172,144"/>
+<area shape="rect" id="Node000002" href="$classCellBase.html#ae14aed43315010dfbff36b5c595f87a0" title=" " alt="" coords="220,43,451,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,116,219,85,273,69,274,74,221,90,127,121"/>
+<area shape="rect" id="Node000005" href="$classNode.html#a69e9034f4fa1a79de391ed23741742eb" title=" " alt="" coords="500,107,675,132"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="172,127,486,119,486,124,173,132"/>
+<area shape="rect" id="Node000006" href="$classCellBase.html#af102122aec7da1dd4ec77319eb245adc" title=" " alt="" coords="274,144,397,169"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="173,137,261,146,260,152,172,143"/>
+<area shape="rect" id="Node000007" href="$classCellBase.html#a4f0641f49d491d7973583407222a81be" title=" " alt="" coords="255,193,415,219"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="120,142,221,179,252,188,250,193,219,185,118,147"/>
+<area shape="rect" id="Node000003" href="$classCellBase.html#abbe8aff453efb1a6071286d34e6cef7f" title=" " alt="" coords="499,5,676,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="421,40,487,30,488,35,422,45"/>
+<area shape="rect" id="Node000004" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="724,107,813,132"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="451,61,561,73,677,91,714,100,713,106,675,97,560,78,451,66"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="739,108,732,98,736,89,748,82,769,80,794,84,804,92,801,96,791,88,769,85,750,87,740,92,737,98,743,105"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="675,117,710,117,710,122,675,122"/>
+<area shape="rect" id="Node000008" href="$classCellBase.html#ad5358e223776318165b88e5d7131257d" title=" " alt="" coords="515,168,660,193"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="415,195,501,187,501,192,416,201"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="625,165,717,134,718,139,627,170"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CellWallCurve::longerWall" name="CellWallCurve::longerWall">
+<area shape="rect" id="Node000001" title=" " alt="" coords="497,70,688,95"/>
+<area shape="rect" id="Node000002" href="$classCellWallCurve.html#a5ad833c9638f772b9fcab3a7864559e8" title=" " alt="" coords="260,5,449,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="526,69,437,48,439,43,527,64"/>
+<area shape="rect" id="Node000003" href="$classCellWallCurve.html#a1672d365d0f34c4478d3c3b415ad8269" title=" " alt="" coords="5,70,212,95"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="483,85,212,85,212,80,483,80"/>
+<area shape="rect" id="Node000004" href="$classCellWallCurve.html#a3ee0bdfbd166030b884b1d14ec0fbeb9" title=" " alt="" coords="260,120,449,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="527,101,439,123,437,117,526,96"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,51,164,73,163,67,254,46"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="254,119,163,98,164,93,256,114"/>
+</map>

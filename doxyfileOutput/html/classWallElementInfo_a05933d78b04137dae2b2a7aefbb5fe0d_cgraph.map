@@ -1,0 +1,7 @@
+<map id="WallElementInfo::getBaseLength" name="WallElementInfo::getBaseLength">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,196,67"/>
+<area shape="rect" id="Node000002" href="$classWallElement.html#ac7d932ef9cda071d40e8df0b3bed3588" title=" " alt="" coords="244,5,453,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,33,230,29,231,35,196,39"/>
+<area shape="rect" id="Node000003" href="$classWallElementInfo.html#a82f18afabfef079e33ce1639eafa7917" title=" " alt="" coords="255,55,442,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,55,242,61,241,66,196,61"/>
+</map>

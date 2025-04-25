@@ -1,0 +1,6 @@
+<map id="svg_to_vl.cellmodel.Wall.addCell" name="svg_to_vl.cellmodel.Wall.addCell">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,243,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="291,29,380,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,39,277,39,277,45,243,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="301,31,293,21,297,11,312,5,335,3,365,6,376,15,373,20,363,11,335,8,313,10,301,15,299,20,305,28"/>
+</map>

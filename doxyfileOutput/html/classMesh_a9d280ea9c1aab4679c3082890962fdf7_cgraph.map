@@ -1,0 +1,16 @@
+<map id="Mesh::CutAwaySAM" name="Mesh::CutAwaySAM">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,159,105"/>
+<area shape="rect" id="Node000002" href="$classMesh.html#aec43ce1c1f9108ef3e43fe00cec7e0ff" title=" " alt="" coords="207,55,416,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,82,193,78,193,83,159,87"/>
+<area shape="rect" id="Node000006" href="$classMesh.html#a06429429a769107273951e96a0ecd32e" title=" " alt="" coords="228,104,395,129"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="159,98,215,104,214,109,159,103"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="709,29,799,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,52,397,31,463,14,519,6,563,4,662,14,703,23,702,28,661,19,562,10,519,12,465,19,398,36,342,57"/>
+<area shape="rect" id="Node000004" href="$classCell.html#a9847d91d0ac41c6180ecbf4ab7691c66" title=" " alt="" coords="464,29,661,55"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="416,54,450,51,451,56,417,59"/>
+<area shape="rect" id="Node000005" href="$classCellBase.html#a8bf6ea4496ee491639e866229da58e99" title=" " alt="" coords="498,79,627,104"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="417,75,484,81,484,87,416,80"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="723,31,716,21,720,11,733,5,754,3,780,6,791,15,788,19,778,11,754,8,734,10,723,15,721,20,727,28"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="662,39,696,39,696,45,662,45"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="378,127,439,134,511,137,587,132,624,125,660,114,700,92,731,63,734,67,703,96,662,119,626,130,588,137,511,142,439,139,378,132"/>
+</map>

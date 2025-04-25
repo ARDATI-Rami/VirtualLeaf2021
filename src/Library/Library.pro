@@ -87,7 +87,7 @@ SOURCES = \
  wallelementinfo.cpp \
  warning.cpp
 
-# Create parameter.cpp from *.tmpl file
+#Create parameter.cpp from *.tmpl file
 #TMPL_FILES = $${PARTMPL}
 #tmpl_compiler.output = parameter.cpp
 #tmpl_compiler.commands = perl $${PERLDIR}/make_parameter_source.pl ${QMAKE_FILE_NAME}
@@ -96,7 +96,7 @@ SOURCES = \
 #tmpl_compiler.clean = ${QMAKE_FILE_OUT}
 #QMAKE_EXTRA_COMPILERS += tmpl_compiler
 
-# Create parameter.h from *.tmpl file
+#Create parameter.h from *.tmpl file
 #tmplh_compiler.output = parameter.h
 #tmplh_compiler.commands = perl $${PERLDIR}/make_parameter_source.pl ${QMAKE_FILE_NAME}
 #tmplh_compiler.input = TMPL_FILES

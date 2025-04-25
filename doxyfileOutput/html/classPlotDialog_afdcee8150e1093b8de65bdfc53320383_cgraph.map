@@ -1,0 +1,6 @@
+<map id="PlotDialog::PlotDialog" name="PlotDialog::PlotDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,169,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="217,29,307,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,39,204,39,204,45,170,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="233,31,227,21,230,11,242,5,262,3,286,6,296,15,292,19,284,11,262,8,244,10,234,15,232,20,238,28"/>
+</map>

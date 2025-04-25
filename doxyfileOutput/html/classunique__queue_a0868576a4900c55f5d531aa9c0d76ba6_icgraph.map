@@ -1,0 +1,18 @@
+<map id="unique_queue::clear" name="unique_queue::clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="684,87,837,112"/>
+<area shape="rect" id="Node000002" href="$classMesh.html#aa31da229c94c4f023179a966f7f75729" title=" " alt="" coords="533,61,636,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="670,89,636,84,637,79,671,84"/>
+<area shape="rect" id="Node000007" href="$classMesh.html#a85427cf326e76c4a9ba5f808f8827000" title=" " alt="" coords="535,111,634,136"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="671,114,635,119,634,114,670,109"/>
+<area shape="rect" id="Node000003" href="$classModelCatalogue.html#a0e8d6c6d9a54a5317211bd0c66f9c7fc" title=" " alt="" coords="5,5,221,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="527,60,485,51,348,34,221,25,222,19,349,29,486,46,528,55"/>
+<area shape="rect" id="Node000004" href="$classModelCatalogue.html#ac2ab5ac5fe57ecfa1cc9d8327cd05372" title=" " alt="" coords="269,61,485,87"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="520,77,486,77,486,71,520,71"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="303,61,174,33,175,28,304,56"/>
+<area shape="rect" id="Node000005" href="$classModelCatalogue.html#a4867f322c6342563ec81cb174612c73e" title=" " alt="" coords="11,55,215,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="256,77,216,77,216,72,256,72"/>
+<area shape="rect" id="Node000006" href="$classModelCatalogue.html#a00f79493d423ba123c707cd1de85d0c5" title=" " alt="" coords="17,119,210,159"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="305,92,270,101,188,122,187,117,269,95,304,87"/>
+<area shape="rect" id="Node000008" href="$classMain.html#a0e8b1a2f774868723c74e695a9c5d8f1" title=" " alt="" coords="310,111,445,136"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="521,126,445,126,445,121,521,121"/>
+</map>

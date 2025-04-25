@@ -1,0 +1,15 @@
+<map id="Main::XMLSettingsTree" name="Main::XMLSettingsTree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="880,54,1051,79"/>
+<area shape="rect" id="Node000002" href="$classTissueGenerator.html#a1df5a2a4c63c070a81f16ff19e983fcd" title=" " alt="" coords="635,12,832,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="866,55,832,49,833,44,867,49"/>
+<area shape="rect" id="Node000006" href="$classMain.html#afd7b636a306ee97c11e780ef886e8dd1" title=" " alt="" coords="411,94,565,119"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="867,78,566,103,565,98,866,72"/>
+<area shape="rect" id="Node000003" href="$classTissueGenerator.html#ae13d4f703db5dc2fa31a0f7d86779847" title=" " alt="" coords="389,5,587,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="621,32,587,31,587,25,621,26"/>
+<area shape="rect" id="Node000004" href="$classMain.html#ab341d76ec20edbd746832a88d95fc6ba" title=" " alt="" coords="148,21,341,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="376,32,341,33,341,27,376,26"/>
+<area shape="rect" id="Node000005" href="$classMain.html#a71c203ef611a70fb61bc2ad369013711" title=" " alt="" coords="5,54,100,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="158,51,101,61,100,56,157,46"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="397,101,100,74,101,68,397,96"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="531,85,528,80,521,76,488,73,462,75,448,80,445,85,453,92,449,96,440,86,445,76,461,70,488,67,522,71,532,76,536,82"/>
+</map>

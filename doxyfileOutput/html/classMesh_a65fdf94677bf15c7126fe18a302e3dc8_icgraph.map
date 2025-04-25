@@ -1,0 +1,7 @@
+<map id="Mesh::InsertNode" name="Mesh::InsertNode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="283,5,419,31"/>
+<area shape="rect" id="Node000002" href="$classMesh.html#ac086f984de6a2fbd78c5e4dcb5e8fdce" title=" " alt="" coords="92,5,235,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,21,235,21,235,15,269,15"/>
+<area shape="rect" id="Node000003" href="$VirtualLeaf_8cpp.html#acd1b1d54fbdd7798bbc9d5b0afdb68a6" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,21,44,21,44,15,78,15"/>
+</map>

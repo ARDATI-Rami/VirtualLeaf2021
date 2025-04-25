@@ -1,0 +1,9 @@
+<map id="Tutorial1B" name="Tutorial1B">
+<area shape="rect" id="Node000001" title=" " alt="" coords="15,168,102,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,80,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,132,59,167,53,168,46,133"/>
+<area shape="rect" id="Node000003" href="$classSimPluginInterface.html" title=" " alt="" coords="105,93,250,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,128,79,170,76,166,145,124"/>
+<area shape="rect" id="Node000004" href="$classParameter.html" title=" " alt="" coords="133,5,222,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="180,45,180,93,175,93,175,45"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="sbool" name="sbool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="704,5,761,31"/>
+<area shape="rect" id="Node000002" href="$classParameterDialog.html#a847432aa1d57c813eb54d7d08fdc2637" title=" " alt="" coords="5,23,212,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="690,20,504,18,383,21,260,27,213,32,212,27,260,22,382,15,504,13,690,14"/>
+<area shape="rect" id="Node000003" href="$classParameterDialog.html#a9de6b8ad6285bf4545a2f04fac82da2a" title=" " alt="" coords="480,31,656,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="691,27,651,33,650,28,690,22"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="466,46,212,46,212,41,466,41"/>
+<area shape="rect" id="Node000004" href="$classParameterDialog.html#a66728099de9394a941f60f2c82ae7dd7" title=" " alt="" coords="260,81,432,107"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="499,62,403,84,402,79,497,57"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="272,81,202,66,204,61,273,76"/>
+</map>

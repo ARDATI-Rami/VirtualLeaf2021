@@ -1,0 +1,9 @@
+<map id="Mesh::RepairBoundaryPolygon" name="Mesh::RepairBoundaryPolygon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="344,35,565,60"/>
+<area shape="rect" id="Node000002" href="$classMesh.html#adacd08bf11e0014ec5198dd7eb7867b7" title=" " alt="" coords="93,5,295,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,36,294,32,295,27,331,31"/>
+<area shape="rect" id="Node000004" href="$classFigureEditor.html#a10075108c017c95c39e0c41bac40dcbe" title=" " alt="" coords="92,55,296,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="331,63,297,67,296,62,330,58"/>
+<area shape="rect" id="Node000003" href="$VirtualLeaf_8cpp.html#acd1b1d54fbdd7798bbc9d5b0afdb68a6" title=" " alt="" coords="5,5,44,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,21,44,21,44,15,80,15"/>
+</map>

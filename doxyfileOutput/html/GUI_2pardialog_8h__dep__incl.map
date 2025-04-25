@@ -1,0 +1,9 @@
+<map id="pardialog.h" name="pardialog.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="149,5,244,31"/>
+<area shape="rect" id="Node000002" href="$canvas_8cpp.html" title=" " alt="" coords="5,79,100,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,39,77,81,75,76,160,34"/>
+<area shape="rect" id="Node000003" href="$moc__pardialog_8cpp.html" title=" " alt="" coords="124,79,269,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,44,199,79,194,79,194,44"/>
+<area shape="rect" id="Node000004" href="$GUI_2pardialog_8cpp.html" title=" " alt="" coords="293,79,404,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,34,325,76,323,81,232,39"/>
+</map>

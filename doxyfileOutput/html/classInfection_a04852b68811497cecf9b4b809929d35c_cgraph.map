@@ -1,0 +1,6 @@
+<map id="Infection::ModelID" name="Infection::ModelID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,147,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="195,29,284,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,39,181,39,181,45,147,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="212,31,206,21,209,11,221,5,239,3,262,6,271,15,268,19,259,11,239,8,222,10,213,15,212,20,217,28"/>
+</map>

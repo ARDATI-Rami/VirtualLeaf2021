@@ -1,0 +1,11 @@
+<map id="osculating_circle_radius" name="osculating_circle_radius">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,184,81"/>
+<area shape="rect" id="Node000002" href="$mesh_8cpp.html#a6e10235865903190ec88084ac68b8419" title=" " alt="" coords="249,5,333,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,53,235,30,237,35,146,58"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="399,31,488,56"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="184,60,384,45,385,50,184,65"/>
+<area shape="rect" id="Node000004" href="$classVector.html#a212c15a92dd31064c63a9f96fc4bd816" title=" " alt="" coords="232,107,351,132"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="146,79,229,101,227,106,144,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,22,386,31,385,36,333,28"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="418,32,412,22,415,13,426,6,443,4,464,7,473,16,470,20,462,12,443,9,428,11,419,16,418,22,422,29"/>
+</map>

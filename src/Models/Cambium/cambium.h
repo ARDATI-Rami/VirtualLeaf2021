@@ -38,6 +38,9 @@ public:
 	
 	// Executed after the cellular mechanics steps have equillibrized
 	virtual void CellHouseKeeping (CellBase *c);
+
+	//virtual void SetCellTypeProperties(CellBase *c);
+
 	// Differential equations describing transport of chemicals from cell to cell
 	virtual void CelltoCellTransport(Wall *w, double *dchem_c1, double *dchem_c2);
     
@@ -55,7 +58,8 @@ public:
 	virtual void SetCellColor(CellBase *c, QColor *color);	
 	// return number of chemicals
 	virtual int NChem(void);
-	virtual QString DefaultLeafML(void) { return QString("cambium.xml"); }
+	virtual QString DefaultLeafML(void) { return QString("cambium_updated.xml"); }
+
 private:
 	// bark_cells should be defined in cambium.h, not here
      std::vector<int> bark_cells;

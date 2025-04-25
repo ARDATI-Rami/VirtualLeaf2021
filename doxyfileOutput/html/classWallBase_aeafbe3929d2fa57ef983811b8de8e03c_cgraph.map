@@ -1,0 +1,5 @@
+<map id="WallBase::SetTransToNewTrans" name="WallBase::SetTransToNewTrans">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,228,31"/>
+<area shape="rect" id="Node000002" href="$classCellBase.html#a68c5c922a198479bd2634defaad28e87" title=" " alt="" coords="276,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,15,263,15,263,21,228,21"/>
+</map>

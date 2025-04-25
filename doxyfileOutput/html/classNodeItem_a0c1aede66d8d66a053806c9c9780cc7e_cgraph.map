@@ -1,0 +1,16 @@
+<map id="NodeItem::setColor" name="NodeItem::setColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,153,132"/>
+<area shape="rect" id="Node000002" href="$classNodeBase.html#a6795760b241a3bce7a5cb9f033e270ed" title=" " alt="" coords="201,5,368,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,104,200,48,234,33,236,38,203,52,102,109"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="416,107,505,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="129,104,201,91,285,85,368,91,410,100,409,106,368,97,285,90,202,97,130,109"/>
+<area shape="rect" id="Node000004" href="$classNodeItem.html#a766856292e382b9becd7f6a6c49dcdab" title=" " alt="" coords="210,107,359,132"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="154,117,196,117,196,122,154,122"/>
+<area shape="rect" id="Node000005" href="$classNode.html#a3eacf05a5fb18ab81901307c70dd0730" title=" " alt="" coords="234,156,335,181"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="133,129,221,151,220,156,132,135"/>
+<area shape="rect" id="Node000006" href="$classNodeItem.html#a966b49e702965c079fad4b0875e05161" title=" " alt="" coords="209,205,360,231"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="100,130,146,160,202,190,223,198,221,203,200,195,143,164,97,134"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="431,108,425,98,428,89,441,82,461,80,485,84,495,92,492,96,483,88,461,85,442,87,432,92,430,98,436,105"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="360,117,402,117,402,122,360,122"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="337,203,367,190,404,166,435,140,438,144,407,170,369,195,339,208"/>
+</map>

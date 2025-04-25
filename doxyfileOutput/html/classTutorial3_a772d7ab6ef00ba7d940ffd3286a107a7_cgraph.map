@@ -1,0 +1,14 @@
+<map id="Tutorial3::SetCellColor" name="Tutorial3::SetCellColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,172,132"/>
+<area shape="rect" id="Node000002" href="$classCellBase.html#a02fcda676206ce90bf91c70fa4d92f26" title=" " alt="" coords="220,58,368,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,104,227,84,228,89,143,110"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="619,82,708,107"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="172,124,355,130,463,127,570,117,612,108,613,113,571,122,463,132,355,135,172,129"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="317,55,361,34,415,17,494,3,529,5,572,17,612,40,644,69,640,73,609,45,570,22,528,11,494,9,417,22,363,39,319,60"/>
+<area shape="rect" id="Node000004" href="$classCellBase.html#a68c5c922a198479bd2634defaad28e87" title=" " alt="" coords="426,32,561,58"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="368,58,412,53,413,58,368,64"/>
+<area shape="rect" id="Node000005" href="$namespaceMyWarning.html#abdca39d13507c6088a112809f38248e3" title=" " alt="" coords="416,82,571,107"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="368,77,403,81,402,86,368,82"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="635,83,629,73,632,64,644,57,663,55,686,58,696,67,693,71,684,63,663,60,646,62,637,67,635,73,640,80"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="571,92,605,92,605,97,571,97"/>
+</map>

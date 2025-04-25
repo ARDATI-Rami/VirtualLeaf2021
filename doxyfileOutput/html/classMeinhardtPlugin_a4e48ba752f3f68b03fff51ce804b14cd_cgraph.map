@@ -1,0 +1,14 @@
+<map id="MeinhardtPlugin::SetCellColor" name="MeinhardtPlugin::SetCellColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,100,188,140"/>
+<area shape="rect" id="Node000002" href="$classCellBase.html#a02fcda676206ce90bf91c70fa4d92f26" title=" " alt="" coords="236,58,384,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,97,241,83,242,89,184,102"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="635,82,724,107"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="188,124,373,130,480,127,586,117,628,108,629,113,587,122,480,132,373,135,188,130"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="333,55,377,34,431,17,510,3,545,5,588,17,628,40,660,69,656,73,625,45,586,22,544,11,510,9,433,22,379,39,335,60"/>
+<area shape="rect" id="Node000004" href="$classCellBase.html#a68c5c922a198479bd2634defaad28e87" title=" " alt="" coords="442,32,577,58"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="384,58,428,53,429,58,384,64"/>
+<area shape="rect" id="Node000005" href="$namespaceMyWarning.html#abdca39d13507c6088a112809f38248e3" title=" " alt="" coords="432,82,587,107"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="384,77,419,81,418,86,384,82"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="651,83,645,73,648,64,660,57,679,55,702,58,712,67,709,71,700,63,679,60,662,62,653,67,651,73,656,80"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="587,92,621,92,621,97,587,97"/>
+</map>

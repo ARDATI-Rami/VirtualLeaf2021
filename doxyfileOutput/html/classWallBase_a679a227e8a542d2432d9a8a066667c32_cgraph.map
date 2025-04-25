@@ -1,0 +1,8 @@
+<map id="WallBase::CorrectTransporters" name="WallBase::CorrectTransporters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,223,80"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="293,29,383,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,52,279,46,280,51,223,58"/>
+<area shape="rect" id="Node000003" href="$classCellBase.html#a68c5c922a198479bd2634defaad28e87" title=" " alt="" coords="271,79,405,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="223,76,257,80,257,85,222,82"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="301,31,294,21,298,11,313,5,338,3,370,7,382,16,378,20,368,11,338,8,314,10,301,15,299,20,306,27"/>
+</map>

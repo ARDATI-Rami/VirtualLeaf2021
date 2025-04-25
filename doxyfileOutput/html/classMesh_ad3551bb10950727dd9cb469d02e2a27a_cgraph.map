@@ -1,0 +1,6 @@
+<map id="Mesh::SetSimPlugin" name="Mesh::SetSimPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,156,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="204,29,293,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,39,190,39,190,45,156,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="221,31,215,21,218,11,229,5,249,3,272,6,282,15,278,19,269,11,249,8,231,10,222,15,220,20,225,28"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="CellBase::SumTransporters" name="CellBase::SumTransporters">
+<area shape="rect" id="Node000001" title="Sum transporters at this CellBase&#39;s side of the walls." alt="" coords="701,70,897,95"/>
+<area shape="rect" id="Node000002" href="$classAuxinGrowthPlugin.html#a8b80f816141d767c97e5cf8b5dd94149" title=" " alt="" coords="499,5,653,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="735,69,653,48,654,43,737,64"/>
+<area shape="rect" id="Node000003" href="$classCell.html#a2cd6f7a750bd2e8cce2ef0b60940a377" title=" " alt="" coords="510,70,642,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="688,85,642,85,642,80,688,80"/>
+<area shape="rect" id="Node000008" href="$VirtualLeaf_8cpp.html#a44e0e93d4876a93670a42b3e2bd4aa21" title=" " alt="" coords="539,119,613,145"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="729,101,614,127,613,121,727,96"/>
+<area shape="rect" id="Node000004" href="$classCell.html#a855aa3231845f29240ada62ad7f9bc7a" title=" " alt="" coords="276,45,432,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="496,76,432,69,433,64,496,71"/>
+<area shape="rect" id="Node000006" href="$classCell.html#a5f035ebe86b23f7a81544d559b1f0c02" title=" " alt="" coords="257,95,451,121"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="496,94,451,100,450,94,496,89"/>
+<area shape="rect" id="Node000005" href="$classCell.html#ad6703af31e1bb434c67b26e5f7ea1193" title=" " alt="" coords="59,42,156,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="262,59,156,58,156,53,262,54"/>
+<area shape="rect" id="Node000007" href="$classFigureEditor.html#a10075108c017c95c39e0c41bac40dcbe" title=" " alt="" coords="5,92,209,132"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="244,112,210,113,210,108,244,107"/>
+</map>

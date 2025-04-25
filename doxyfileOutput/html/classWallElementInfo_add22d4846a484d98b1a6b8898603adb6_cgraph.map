@@ -1,0 +1,7 @@
+<map id="WallElementInfo::plasticStretch" name="WallElementInfo::plasticStretch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,185,67"/>
+<area shape="rect" id="Node000002" href="$classWallElement.html#ac7d932ef9cda071d40e8df0b3bed3588" title=" " alt="" coords="233,5,443,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,34,219,30,220,35,186,39"/>
+<area shape="rect" id="Node000003" href="$classWallElementInfo.html#a82f18afabfef079e33ce1639eafa7917" title=" " alt="" coords="245,55,431,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,55,231,60,231,66,185,60"/>
+</map>

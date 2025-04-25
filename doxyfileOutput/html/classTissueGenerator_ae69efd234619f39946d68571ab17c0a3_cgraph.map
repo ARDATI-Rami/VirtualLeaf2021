@@ -1,0 +1,6 @@
+<map id="TissueGenerator::AddBoundaryToTissue" name="TissueGenerator::AddBoundaryToTissue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,22,229,62"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="277,29,367,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,39,264,39,264,45,230,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="289,31,282,21,285,11,299,5,322,3,350,6,362,16,358,20,348,11,322,8,300,10,289,15,287,20,293,28"/>
+</map>

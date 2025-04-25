@@ -1,0 +1,15 @@
+<map id="Mesh::Compactness" name="Mesh::Compactness">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,159,81"/>
+<area shape="rect" id="Node000002" href="$classCellBase.html#ad5358e223776318165b88e5d7131257d" title=" " alt="" coords="363,5,508,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,54,206,47,348,27,349,32,207,53,159,60"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="556,81,645,107"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="159,69,508,86,542,88,542,93,508,91,159,75"/>
+<area shape="rect" id="Node000004" href="$hull_8cpp.html#ad687868582cf5cc0fe52ae4d93f319cb" title=" " alt="" coords="207,107,315,132"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="128,79,203,100,201,105,127,84"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,28,509,48,562,73,560,78,507,52,464,33"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="573,83,567,73,570,63,582,57,601,55,623,58,633,67,630,71,621,63,601,60,583,62,574,67,572,72,577,80"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="315,113,542,96,542,101,315,118"/>
+<area shape="rect" id="Node000005" href="$hull_8cpp.html#a1c45750c2758d03b8387378f556b4ee8" title=" " alt="" coords="407,157,464,183"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="306,130,394,155,392,161,305,135"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="463,155,507,136,560,110,562,115,509,140,465,160"/>
+</map>

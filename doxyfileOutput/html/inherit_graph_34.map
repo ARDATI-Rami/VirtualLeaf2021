@@ -1,0 +1,20 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="31,5,150,31"/>
+<area shape="rect" id="Node000001" href="$classNodeItem.html" title=" " alt="" coords="259,5,346,31"/>
+<area shape="poly" id="edge15_Node000000_Node000001" title=" " alt="" coords="164,15,259,15,259,21,164,21"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="17,104,164,129"/>
+<area shape="rect" id="Node000003" href="$classApoplastItem.html" title="Shows transporter concentrations at one side of the wall." alt="" coords="248,104,357,129"/>
+<area shape="poly" id="edge16_Node000004_Node000003" title=" " alt="" coords="178,114,248,114,248,119,178,119"/>
+<area shape="rect" id="Node000005" href="$classQGraphicsArrowItem.html" title=" " alt="" coords="224,203,381,228"/>
+<area shape="poly" id="edge17_Node000004_Node000005" title=" " alt="" coords="165,132,177,138,193,151,202,164,211,177,225,189,249,200,247,205,223,194,207,181,198,167,189,155,175,143,163,137"/>
+<area shape="rect" id="Node000006" href="$classWallItem.html" title="Shows transporter concentrations at one side of the wall." alt="" coords="263,55,343,80"/>
+<area shape="poly" id="edge18_Node000004_Node000006" title=" " alt="" coords="158,98,262,74,263,79,160,103"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="5,153,176,179"/>
+<area shape="rect" id="Node000007" href="$classCellItem.html" title=" " alt="" coords="264,153,341,179"/>
+<area shape="poly" id="edge19_Node000008_Node000007" title=" " alt="" coords="190,163,263,163,263,169,190,169"/>
+<area shape="rect" id="Node000002" href="$classSimItemBase.html" title=" " alt="" coords="36,55,145,80"/>
+<area shape="poly" id="edge22_Node000002_Node000001" title=" " alt="" coords="158,49,259,25,260,31,159,54"/>
+<area shape="poly" id="edge20_Node000002_Node000003" title=" " alt="" coords="159,80,248,101,247,107,158,86"/>
+<area shape="poly" id="edge23_Node000002_Node000006" title=" " alt="" coords="159,65,263,65,263,70,159,70"/>
+<area shape="poly" id="edge21_Node000002_Node000007" title=" " alt="" coords="160,80,177,89,193,102,202,114,211,127,225,138,265,155,263,160,223,143,207,130,198,117,189,105,175,94,157,85"/>
+</map>

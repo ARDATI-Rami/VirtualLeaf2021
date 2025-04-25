@@ -1,0 +1,11 @@
+<map id="svg_to_vl.cellmodel.Cell.toBoundaryBolygon" name="svg_to_vl.cellmodel.Cell.toBoundaryBolygon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,22,204,62"/>
+<area shape="rect" id="Node000002" href="$classsvg__to__vl_1_1cellmodel_1_1Cell.html#a24da32709b461703414aa1bb6251ca1f" title=" " alt="" coords="252,29,480,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,39,238,39,238,45,204,45"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="783,29,872,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,36,735,35,769,36,769,42,735,41,480,42"/>
+<area shape="rect" id="Node000004" href="$classsvg__to__vl_1_1cellmodel_1_1Cell.html#a939f04babaf964939e932b71a10a357a" title=" " alt="" coords="528,50,735,90"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="481,51,515,55,514,60,480,57"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="795,31,788,21,792,11,805,5,827,3,854,6,865,15,862,19,852,11,827,8,807,10,796,15,794,20,799,28"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="735,53,769,48,770,53,735,58"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Rouges_model" name="Rouges_model">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,168,124,193"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="11,93,86,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,132,65,167,59,168,52,133"/>
+<area shape="rect" id="Node000003" href="$classSimPluginInterface.html" title=" " alt="" coords="111,93,256,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,128,85,170,82,166,151,124"/>
+<area shape="rect" id="Node000004" href="$classParameter.html" title=" " alt="" coords="139,5,228,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="186,45,186,93,181,93,181,45"/>
+</map>

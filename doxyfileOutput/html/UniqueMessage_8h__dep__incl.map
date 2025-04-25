@@ -1,0 +1,9 @@
+<map id="UniqueMessage.h" name="UniqueMessage.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,5,346,31"/>
+<area shape="rect" id="Node000002" href="$UniqueMessage_8cpp.html" title=" " alt="" coords="5,79,159,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,38,115,81,113,76,232,33"/>
+<area shape="rect" id="Node000003" href="$GUI_2moc__UniqueMessage_8cpp.html" title=" " alt="" coords="183,79,371,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,44,279,79,274,79,274,44"/>
+<area shape="rect" id="Node000004" href="$Library_2moc__UniqueMessage_8cpp.html" title=" " alt="" coords="395,79,583,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="324,32,455,76,453,81,323,37"/>
+</map>

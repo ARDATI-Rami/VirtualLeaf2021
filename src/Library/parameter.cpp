@@ -141,9 +141,6 @@ Parameter::Parameter() {
   k2van3 = 0.3;
   dt = 0.1;
   rd_dt = 1.0;
-  elastic_modulus = 50.;
-  elastic_limit = DEFAULT_ELASTIC_LIMIT;
-  compatibility_level = 0xFFFF;
   movie = false;
   nit = 100000;
   maxt = 1000.;
@@ -193,6 +190,7 @@ Parameter::Parameter() {
   b4 = false;
   dir1 = strdup(".");
   dir2 = strdup(".");
+  division_axis_type = 0;
 }
 
 Parameter::~Parameter() {
@@ -312,11 +310,8 @@ void Parameter::Read(const char *filename) {
   k2van3 = fgetpar(fp, "k2van3", 0.3, true);
   dt = fgetpar(fp, "dt", 0.1, true);
   rd_dt = fgetpar(fp, "rd_dt", 1.0, true);
-  elastic_limit = fgetpar(fp, "elastic_limit", DEFAULT_ELASTIC_LIMIT, true);
-  elastic_modulus = fgetpar(fp, "elastic_modulus", 50., true);
   movie = bgetpar(fp, "movie", false, true);
   nit = igetpar(fp, "nit", 100000, true);
-  compatibility_level = igetpar(fp, "compatibility_level", 0xFFFF, true);
   maxt = fgetpar(fp, "maxt", 1000., true);
   rseed = igetpar(fp, "rseed", -1, true);
   constituous_expansion_limit = igetpar(fp, "constituous_expansion_limit", 16, true);
@@ -345,7 +340,7 @@ void Parameter::Read(const char *filename) {
   krs = fgetpar(fp, "krs", 0., true);
   k = dgetparlist(fp, "k", 15, true);
   i1 = igetpar(fp, "i1", 0, true);
-  i2 = igetpar(fp, "i2", 0, true);
+  i2 = fgetpar(fp, "i2", 0, true);
   b4 = bgetpar(fp, "b4", false, true);
   dir1 = sgetpar(fp, "dir1", ".", true);
   if (strcmp(dir1, "."))
@@ -353,6 +348,7 @@ void Parameter::Read(const char *filename) {
   dir2 = sgetpar(fp, "dir2", ".", true);
   if (strcmp(dir2, "."))
     MakeDir(dir2);
+  division_axis_type = igetpar(fp, "division_axis_type", 0, true);
 }
 
 const char *sbool(const bool &p) {
@@ -449,11 +445,8 @@ void Parameter::Write(ostream &os) const {
   os << " k2van3 = " << k2van3 << endl;
   os << " dt = " << dt << endl;
   os << " rd_dt = " << rd_dt << endl;
-  os << " elastic_limit = " << elastic_limit << endl;
-  os << " elastic_modulus = " << elastic_modulus << endl;
   os << " movie = " << sbool(movie) << endl;
   os << " nit = " << nit << endl;
-  os << " compatibility_level = " << compatibility_level << endl;
   os << " maxt = " << maxt << endl;
   os << " rseed = " << rseed << endl;
   os << " constituous_expansion_limit = " << constituous_expansion_limit << endl;
@@ -490,6 +483,7 @@ void Parameter::Write(ostream &os) const {
 
   if (dir2) 
   os << " dir2 = " << dir2 << endl;
+  os << " division_axis_type = " << division_axis_type << endl;
 }
 
 void Parameter::XMLAdd(QDomDocument &doc, QDomElement &root) const {
@@ -1262,22 +1256,6 @@ text << sbool(copy_wall);
 }
 {
   QDomElement xmlpar = doc.createElement("par");
-  xmlpar.setAttribute("name","elastic_limit" );
-  xmlparameter.appendChild(xmlpar);
-  ostringstream text;
-    text << elastic_limit;
-  xmlpar.setAttribute("val",text.str().c_str());
-}
-{
-  QDomElement xmlpar = doc.createElement("par");
-  xmlpar.setAttribute("name","elastic_modulus" );
-  xmlparameter.appendChild(xmlpar);
-  ostringstream text;
-    text << elastic_modulus;
-  xmlpar.setAttribute("val",text.str().c_str());
-}
-{
-  QDomElement xmlpar = doc.createElement("par");
   xmlpar.setAttribute("name","movie" );
   xmlparameter.appendChild(xmlpar);
   ostringstream text;
@@ -1290,14 +1268,6 @@ text << sbool(movie);
   xmlparameter.appendChild(xmlpar);
   ostringstream text;
     text << nit;
-  xmlpar.setAttribute("val",text.str().c_str());
-}
-{
-  QDomElement xmlpar = doc.createElement("par");
-  xmlpar.setAttribute("name","compatibility_level" );
-  xmlparameter.appendChild(xmlpar);
-  ostringstream text;
-    text << compatibility_level;
   xmlpar.setAttribute("val",text.str().c_str());
 }
 {
@@ -1664,6 +1634,14 @@ text << sbool(b4);
     text << dir2;
   xmlpar.setAttribute("val",text.str().c_str());
 }
+{
+  QDomElement xmlpar = doc.createElement("par");
+  xmlpar.setAttribute("name","division_axis_type" );
+  xmlparameter.appendChild(xmlpar);
+  ostringstream text;
+    text << division_axis_type;
+  xmlpar.setAttribute("val",text.str().c_str());
+}
 }
 void Parameter::AssignValToPar(const char *namec, const char *valc) {
   QLocale standardlocale(QLocale::C);
@@ -1931,20 +1909,12 @@ if (!strcmp(namec, "rd_dt")) {
   rd_dt = standardlocale.toDouble(valc, &ok);
   if (!ok) { MyWarning::error("Read error: cannot convert string \"%s\" to double while reading parameter 'rd_dt' from XML file.",valc); }
 }
-if (!strcmp(namec, "elastic_limit")) {
-	elastic_limit = standardlocale.toDouble(valc, &ok);
-  if (!ok) { MyWarning::error("Read error: cannot convert string \"%s\" to double while reading parameter 'elastic_limit' from XML file.",valc); }
-}
 if (!strcmp(namec, "movie")) {
 movie = strtobool(valc);
 }
 if (!strcmp(namec, "nit")) {
   nit = standardlocale.toInt(valc, &ok);
   if (!ok) { MyWarning::error("Read error: cannot convert string \"%s\" to integer while reading parameter 'nit' from XML file.",valc); }
-}
-if (!strcmp(namec, "compatibility_level")) {
-  compatibility_level = standardlocale.toInt(valc, &ok);
-  if (!ok) { MyWarning::error("Read error: cannot convert string \"%s\" to integer while reading parameter 'compatibility_level' from XML file.",valc); }
 }
 if (!strcmp(namec, "maxt")) {
   maxt = standardlocale.toDouble(valc, &ok);
@@ -2055,8 +2025,8 @@ if (!strcmp(namec, "i1")) {
   if (!ok) { MyWarning::error("Read error: cannot convert string \"%s\" to integer while reading parameter 'i1' from XML file.",valc); }
 }
 if (!strcmp(namec, "i2")) {
-  i2 = standardlocale.toInt(valc, &ok);
-  if (!ok) { MyWarning::error("Read error: cannot convert string \"%s\" to integer while reading parameter 'i2' from XML file.",valc); }
+  i2 = standardlocale.toDouble(valc, &ok);
+  if (!ok) { MyWarning::error("Read error: cannot convert string \"%s\" to double while reading parameter 'i2' from XML file.",valc); }
 }
 if (!strcmp(namec, "b4")) {
 b4 = strtobool(valc);
@@ -2068,6 +2038,10 @@ if (!strcmp(namec, "dir1")) {
 if (!strcmp(namec, "dir2")) {
   if (dir2) { free(dir2); }
   dir2=strdup(valc);
+}
+if (!strcmp(namec, "division_axis_type")) {
+  division_axis_type = standardlocale.toInt(valc, &ok);
+  if (!ok) { MyWarning::error("Read error: cannot convert string \"%s\" to integer while reading parameter 'division_axis_type' from XML file.",valc); }
 }
 }
 void Parameter::AssignValArrayToPar(const char *namec, vector<double> valarray) {

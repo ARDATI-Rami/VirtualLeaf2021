@@ -1,0 +1,7 @@
+<map id="NodeSet::getCells" name="NodeSet::getCells">
+<area shape="rect" id="Node000001" title=" " alt="" coords="257,35,396,60"/>
+<area shape="rect" id="Node000002" href="$classNodeSet.html#a3d6e8137db1d08f8c7d2a82b9f8d027f" title=" " alt="" coords="20,5,195,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,39,194,32,195,27,243,34"/>
+<area shape="rect" id="Node000003" href="$classFigureEditor.html#a10075108c017c95c39e0c41bac40dcbe" title=" " alt="" coords="5,55,209,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,61,210,65,209,60,243,55"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="MainBase::XMLReadViewport" name="MainBase::XMLReadViewport">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,219,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="724,29,813,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,27,266,15,391,11,514,15,710,32,710,37,514,20,391,16,267,21,180,32"/>
+<area shape="rect" id="Node000003" href="$namespaceMyWarning.html#add7e76ba13173e6279654723eb8aa734" title=" " alt="" coords="303,29,437,55"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="219,39,289,39,289,45,219,45"/>
+<area shape="rect" id="Node000004" href="$namespaceMyWarning.html#a3a412f4548d1643616fbc60083fee9ed" title=" " alt="" coords="267,79,473,104"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="180,52,290,73,289,79,179,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="741,31,735,21,738,11,749,5,769,3,792,6,802,15,798,19,789,11,769,8,751,10,742,15,740,20,745,28"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="451,76,521,66,710,45,711,50,522,71,451,81"/>
+<area shape="rect" id="Node000005" href="$namespaceMyWarning.html#abdca39d13507c6088a112809f38248e3" title=" " alt="" coords="521,80,676,105"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="474,89,508,89,508,95,474,95"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="641,77,711,56,713,61,643,82"/>
+</map>

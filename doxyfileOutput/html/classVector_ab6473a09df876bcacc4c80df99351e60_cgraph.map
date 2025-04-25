@@ -1,0 +1,14 @@
+<map id="Vector::Angle" name="Vector::Angle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,113,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="468,29,557,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,28,161,21,291,7,348,7,420,14,462,23,461,28,420,19,347,12,291,12,162,26,114,33"/>
+<area shape="rect" id="Node000003" href="$vector_8cpp.html#a646df5706249e821fa3af629a944f80e" title=" " alt="" coords="316,29,420,55"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="114,39,303,39,303,45,114,45"/>
+<area shape="rect" id="Node000004" href="$classVector.html#a75561af447d0882b1821a8f9dea8abae" title=" " alt="" coords="161,80,268,105"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="100,52,163,73,161,78,98,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="488,30,483,21,486,11,496,5,513,3,533,6,541,15,537,18,530,11,513,8,498,10,490,15,488,20,493,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="420,39,454,39,454,45,420,45"/>
+<area shape="rect" id="Node000005" href="$sqr_8h.html#aeb366c01b6ed284d23a04f6e9ea8c8b6" title=" " alt="" coords="339,79,397,104"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="268,90,325,89,325,94,268,95"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="397,79,461,57,463,62,398,84"/>
+</map>

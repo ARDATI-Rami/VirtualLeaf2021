@@ -1,0 +1,13 @@
+<map id="Cell::operator=" name="Cell::operator=">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,127,80"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="400,29,489,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,61,386,43,387,48,127,66"/>
+<area shape="rect" id="Node000003" href="$classCellBase.html#aec282ddf8ff92ffa1d936a0c985eddc1" title=" " alt="" coords="175,80,328,105"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="128,73,161,78,160,83,127,78"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="413,31,406,21,410,11,423,5,445,3,471,6,482,15,479,19,469,11,445,8,424,10,414,15,411,20,417,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="300,77,386,54,388,60,301,82"/>
+<area shape="rect" id="Node000004" href="$classCellBase.html#a68c5c922a198479bd2634defaad28e87" title=" " alt="" coords="377,79,512,104"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="328,89,364,89,364,95,328,95"/>
+<area shape="rect" id="Node000005" href="$classVector.html#a21d44bf5e11f083c180e8f05b7a9ac85" title=" " alt="" coords="376,128,513,153"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="304,103,380,122,379,127,303,108"/>
+</map>

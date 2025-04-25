@@ -1,0 +1,9 @@
+<map id="SimPluginInterface::ModelID" name="SimPluginInterface::ModelID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="476,23,621,63"/>
+<area shape="rect" id="Node000002" href="$classModelCatalogue.html#a0e8d6c6d9a54a5317211bd0c66f9c7fc" title=" " alt="" coords="212,5,428,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,36,428,33,429,27,463,31"/>
+<area shape="rect" id="Node000003" href="$classMesh.html#aa95f46f2145509da59fa420279b686a6" title=" " alt="" coords="261,55,379,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="463,55,380,64,379,59,462,50"/>
+<area shape="rect" id="Node000004" href="$classMain.html#a1b7a8b49d766ac1cdfc7148df582213d" title=" " alt="" coords="5,55,164,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,70,164,70,164,65,247,65"/>
+</map>

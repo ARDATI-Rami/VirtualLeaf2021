@@ -1,0 +1,16 @@
+<map id="Vector::SignedAngle" name="Vector::SignedAngle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,157,80"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="524,29,613,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,52,205,31,280,17,340,8,400,7,476,14,518,23,517,28,476,19,400,12,341,14,281,22,206,37,124,57"/>
+<area shape="rect" id="Node000003" href="$vector_8cpp.html#a646df5706249e821fa3af629a944f80e" title=" " alt="" coords="372,29,476,55"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="158,59,358,44,358,49,158,64"/>
+<area shape="rect" id="Node000004" href="$classVector.html#a75561af447d0882b1821a8f9dea8abae" title=" " alt="" coords="211,80,318,105"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="158,75,198,81,197,86,157,80"/>
+<area shape="rect" id="Node000006" href="$classVector.html#a212c15a92dd31064c63a9f96fc4bd816" title=" " alt="" coords="205,129,324,155"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="115,78,221,122,219,127,113,83"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="544,30,539,21,542,11,552,5,569,3,589,6,597,15,593,18,586,11,569,8,554,10,546,15,544,20,549,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="476,39,510,39,510,45,476,45"/>
+<area shape="rect" id="Node000005" href="$sqr_8h.html#aeb366c01b6ed284d23a04f6e9ea8c8b6" title=" " alt="" coords="395,79,453,104"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="318,90,381,89,381,94,318,95"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="453,79,517,57,519,62,454,84"/>
+</map>

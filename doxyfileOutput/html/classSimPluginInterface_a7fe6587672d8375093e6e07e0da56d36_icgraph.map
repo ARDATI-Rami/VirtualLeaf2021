@@ -1,0 +1,11 @@
+<map id="SimPluginInterface::NChem" name="SimPluginInterface::NChem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="533,63,679,103"/>
+<area shape="rect" id="Node000002" href="$classModelCatalogue.html#ac2ab5ac5fe57ecfa1cc9d8327cd05372" title=" " alt="" coords="269,70,485,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="520,85,486,85,486,80,520,80"/>
+<area shape="rect" id="Node000003" href="$classModelCatalogue.html#a4867f322c6342563ec81cb174612c73e" title=" " alt="" coords="11,5,215,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="304,70,205,48,206,43,305,64"/>
+<area shape="rect" id="Node000004" href="$classModelCatalogue.html#a0e8d6c6d9a54a5317211bd0c66f9c7fc" title=" " alt="" coords="5,70,221,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="256,85,221,85,221,80,256,80"/>
+<area shape="rect" id="Node000005" href="$classModelCatalogue.html#a00f79493d423ba123c707cd1de85d0c5" title=" " alt="" coords="17,120,210,160"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="305,101,206,123,205,117,304,96"/>
+</map>

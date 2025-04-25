@@ -19,115 +19,107 @@
  *
  */
 
-#include <string>
-#include <stddef.h>
-#include <ostream>
-#include <limits.h>
-#include <stdio.h>
-//#include <math.h>
-#include <stdarg.h>
-#include "sqr.h"
-#include "pi.h"
-#include "vector.h"
-#include "tiny.h"
+// Class qui définit le fonctionnement des vecteurs et des opérations associées
 
+#include <string>      // Pour utiliser les chaînes de caractères (std::string)
+#include <stddef.h>    // Définitions standards comme NULL, size_t
+#include <ostream>     // Pour l’affichage ou l’écriture de texte
+#include <limits.h>    // Pour les limites des types numériques
+#include <stdio.h>     // Fonctions de base comme printf
+//#include <math.h>    // (Commenté) Fonctions mathématiques comme sqrt, pow, etc.
+#include <stdarg.h>    // Pour les fonctions avec un nombre variable d’arguments
+
+#include "sqr.h"       // Fichier externe probablement lié à une fonction carré
+#include "pi.h"        // Fichier externe contenant la valeur de Pi ?
+#include "vector.h"    // Contient la définition de la classe Vector
+#include "tiny.h"      // Autre fichier utile pour ce projet
+
+// Variable de texte (string) pour identifier ce fichier/module (souvent utilisé avec un système de version)
 static const std::string _module_id("$Id$");
 
+// Définition de l’opérateur d’affectation (=) pour la classe Vector
 void Vector::operator=(const Vector &source) {
 
-  // assignment
+  // Vérifie si on essaie d’affecter un vecteur à lui-même
+  if (this==&source) return;  // Si c’est le même objet, on ne fait rien
 
-  // don't assign to self
-  if (this==&source) return;
-
-  x=source.x;
-  y=source.y;
-  z=source.z;
+  // Sinon, on copie les coordonnées x, y, z du vecteur source dans l’objet courant
+  x = source.x;
+  y = source.y;
+  z = source.z;
 }
 
 
+// Méthode pour afficher les coordonnées du vecteur
 ostream &Vector::print(ostream &os) const {
+  // On écrit dans le flux (ex: cout) les valeurs entre parenthèses
   os << "(" << x << ", " << y << ", " << z << ")";
-  return os;
+  return os;  // On retourne le flux pour permettre les chaînes d'affichage (ex: cout << v1 << v2)
 }
 
-
+// Permet d’utiliser l’opérateur << directement sur un vecteur
 ostream &operator<<(ostream &os, const Vector &v) {
-  v.print(os);
-  return os;
+  v.print(os);  // Appelle la méthode print() pour afficher le vecteur
+  return os;    // Retourne le flux pour pouvoir enchaîner les affichages
 }
 
-
+// Surcharge de l’opérateur + pour additionner deux vecteurs
 Vector Vector::operator+(const Vector &v) const {
+  Vector result;       // On crée un nouveau vecteur résultat
+  result.x = x + v.x;  // Addition des coordonnées x
+  result.y = y + v.y;  // Addition des coordonnées y
+  result.z = z + v.z;  // Addition des coordonnées z
 
-  Vector result;
-  result.x=x+v.x;
-  result.y=y+v.y;
-  result.z=z+v.z;
-
-  return result;
+  return result;       // On retourne le vecteur résultant
 }
-
-
+// Soustraction et modification directe du vecteur courant
 Vector& Vector::operator-=(const Vector &v) {
-
-  x-=v.x;
-  y-=v.y;
-  z-=v.z;
-
-  return *this;
+  x -= v.x;  // Soustraction de x
+  y -= v.y;  // Soustraction de y
+  z -= v.z;  // Soustraction de z
+  return *this;  // Retourne l’objet modifié
 }
 
+// Division d’un vecteur par un scalaire — retourne un nouveau vecteur
 Vector Vector::operator/(const double divisor) const {
-
-
   Vector result;
-
-  result.x=x/divisor;
-  result.y=y/divisor;
-  result.z=z/divisor;
-
+  result.x = x / divisor;
+  result.y = y / divisor;
+  result.z = z / divisor;
   return result;
 }
 
-
+// Multiplication d’un vecteur par un scalaire — retourne un nouveau vecteur
 Vector Vector::operator*(const double multiplier) const {
-
   Vector result;
-
-  result.x=x*multiplier;
-  result.y=y*multiplier;
-  result.z=z*multiplier;
-
+  result.x = x * multiplier;
+  result.y = y * multiplier;
+  result.z = z * multiplier;
   return result;
 }
 
-
+// Multiplication scalaire à gauche : permet "3 * v" en plus de "v * 3"
 Vector operator*(const double multiplier, const Vector &v) {
-
   Vector result;
-
-  result.x=v.x*multiplier;
-  result.y=v.y*multiplier;
-  result.z=v.z*multiplier;
-
+  result.x = v.x * multiplier;
+  result.y = v.y * multiplier;
+  result.z = v.z * multiplier;
   return result;
 }
 
+// Division par un scalaire et modification directe
 Vector &Vector::operator/=(const double divisor) {
-  x/=divisor;
-  y/=divisor;
-  z/=divisor;
-
+  x /= divisor;
+  y /= divisor;
+  z /= divisor;
   return *this;
 }
 
+// Multiplication par un scalaire et modification directe
 Vector &Vector::operator*=(const double multiplier) {
-
-  x*=multiplier;
-  y*=multiplier;
-  z*=multiplier;
-
+  x *= multiplier;
+  y *= multiplier;
+  z *= multiplier;
   return *this;
 }
 

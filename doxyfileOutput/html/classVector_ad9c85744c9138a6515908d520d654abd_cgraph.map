@@ -1,0 +1,17 @@
+<map id="Vector::SameDirP" name="Vector::SameDirP">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,140,130"/>
+<area shape="rect" id="Node000002" href="$classVector.html#ab6473a09df876bcacc4c80df99351e60" title=" " alt="" coords="188,54,296,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,102,185,81,186,86,117,107"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="651,54,740,79"/>
+<area shape="poly" id="edge9_Node000001_Node000003" title=" " alt="" coords="141,125,233,134,349,139,476,134,540,126,602,113,635,101,664,85,666,89,637,106,603,118,541,131,477,139,349,144,232,139,140,130"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="274,51,335,31,418,12,463,5,510,3,557,5,603,13,637,26,667,43,664,48,635,31,602,18,557,10,510,8,464,11,419,17,337,36,276,56"/>
+<area shape="rect" id="Node000004" href="$vector_8cpp.html#a646df5706249e821fa3af629a944f80e" title=" " alt="" coords="499,28,603,54"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="296,59,485,44,485,49,297,65"/>
+<area shape="rect" id="Node000005" href="$classVector.html#a75561af447d0882b1821a8f9dea8abae" title=" " alt="" coords="344,79,451,104"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="297,73,331,78,330,84,296,78"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="671,55,666,45,668,36,679,29,695,27,715,31,724,39,720,43,713,35,695,32,680,34,673,39,671,45,675,52"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="603,48,638,54,637,59,602,53"/>
+<area shape="rect" id="Node000006" href="$sqr_8h.html#aeb366c01b6ed284d23a04f6e9ea8c8b6" title=" " alt="" coords="521,79,580,104"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="451,89,508,89,508,94,451,94"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="580,84,637,74,638,79,581,89"/>
+</map>

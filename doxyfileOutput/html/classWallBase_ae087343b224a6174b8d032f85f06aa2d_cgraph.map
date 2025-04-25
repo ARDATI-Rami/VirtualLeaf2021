@@ -1,0 +1,7 @@
+<map id="WallBase::SAM_P" name="WallBase::SAM_P">
+<area shape="rect" id="Node000001" title="Return true if the WallBase adheres to the SAM (shoot apical meristem)" alt="" coords="5,31,140,56"/>
+<area shape="rect" id="Node000002" href="$classWallBase.html#a9d60ff51348e701b13711ac3dfd53c68" title=" " alt="" coords="188,5,296,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,31,174,25,175,31,141,36"/>
+<area shape="rect" id="Node000003" href="$classWallBase.html#a5142c5fa93c06dee293aaf797f052e80" title=" " alt="" coords="188,55,296,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,50,175,55,174,60,140,56"/>
+</map>

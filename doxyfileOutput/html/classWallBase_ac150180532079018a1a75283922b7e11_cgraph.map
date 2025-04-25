@@ -1,0 +1,8 @@
+<map id="WallBase::CopyWallContents" name="WallBase::CopyWallContents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,215,80"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="285,29,375,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,53,271,46,272,51,215,58"/>
+<area shape="rect" id="Node000003" href="$classCellBase.html#a68c5c922a198479bd2634defaad28e87" title=" " alt="" coords="263,79,397,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="215,76,249,80,249,85,215,81"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="294,31,287,21,291,11,305,5,330,3,360,6,372,15,369,20,358,11,330,8,307,10,294,15,292,20,298,28"/>
+</map>

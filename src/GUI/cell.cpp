@@ -65,7 +65,74 @@ Cell Cell::operator=(const Cell &src)
   m=src.m;
   return *this;
 }
-//Cell(void) : CellBase() {}
+
+
+DivisionAxisType axis_type = static_cast<DivisionAxisType>(par.division_axis_type);
+Vector Cell::CalculateDivisionAxis(void) {
+    // Déclaration des variables locales
+    Vector axis;
+    Vector long_axis;
+    double width = 0.0;
+     switch(static_cast<DivisionAxisType>(par.division_axis_type)) {
+        case SHORTEST_AXIS:
+            // Calculer le grand axe puis prendre sa perpendiculaire
+            Length(&long_axis, &width);
+            axis = long_axis.Perp2D();
+            break;
+        }
+        case LONGEST_AXIS: {
+            // Utiliser le grand axe
+            Length(&long_axis, &width);
+            axis = long_axis;
+            break;
+        }
+        case RANDOM_AXIS: {
+            // Générer un axe aléatoire
+            double angle = 2 * Pi * RANDOM();
+            axis = Vector(cos(angle), sin(angle), 0);
+            break;
+        }
+        /*case MECHANICAL_AXIS: {
+            // Calcul basé sur les contraintes mécaniques
+            Vector stress_direction;
+
+            // Sommation des forces sur tous les nœuds
+            for (list<Node*>::iterator i = nodes.begin(); i != nodes.end(); i++) {
+                stress_direction += (*i)->CalcForce();
+            }
+
+            if (stress_direction.Norm() > 1e-6) {
+                // Direction perpendiculaire à la contrainte principale
+                axis = stress_direction.Normalised().Perp2D();
+            } else {
+                // Par défaut, utiliser le grand axe
+                Length(&long_axis, &width);
+                axis = long_axis;
+            }
+            break;
+        }*/
+        default: {
+            // Par défaut, utiliser le petit axe
+            Length(&long_axis, &width);
+            axis = long_axis.Perp2D();
+            break;
+        }
+    }
+
+    // Définir division_axis pour la cellule si nécessaire
+    if (division_axis) {
+        *division_axis = axis;
+    }
+
+    return axis;
+}
+
+void Cell::Divide(void) {
+    Vector division_axis = CalculateDivisionAxis();
+    DivideOverAxis(division_axis);
+}
+
+
 
 void Cell::DivideOverAxis(Vector axis) 
 {
@@ -1434,7 +1501,6 @@ double Cell::Energy(void) const
 
 
 
-
 bool Cell::SelfIntersect(void)
 {
   // The (obvious) O(N*N) algorithm
@@ -2306,5 +2372,4 @@ void Cell::correctNeighbors() {
 double Cell::elastic_limit() {
 	return this->m->elastic_limit;
 }
-
 /* finis */

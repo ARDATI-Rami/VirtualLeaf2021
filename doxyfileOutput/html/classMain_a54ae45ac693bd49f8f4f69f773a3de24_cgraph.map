@@ -1,0 +1,12 @@
+<map id="Main::togglePaused" name="Main::togglePaused">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,155,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="413,29,503,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,27,202,14,284,8,366,14,407,23,406,28,365,19,284,13,203,19,131,32"/>
+<area shape="rect" id="Node000003" href="$classMain.html#ab8ed845089949c2d343bfdc90825f596" title=" " alt="" coords="203,29,365,55"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="155,39,189,39,189,45,155,45"/>
+<area shape="rect" id="Node000004" href="$classMain.html#a94350a16ca6676984ca7b70943bf90f7" title=" " alt="" coords="204,79,364,104"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="134,52,218,73,217,78,133,57"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="429,31,423,21,426,11,438,5,458,3,482,6,492,15,488,19,480,11,458,8,440,10,430,15,428,20,434,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="365,39,400,39,400,45,365,45"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="329,76,399,56,401,61,330,81"/>
+</map>

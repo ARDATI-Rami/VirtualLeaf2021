@@ -1,0 +1,11 @@
+<map id="Main::init" name="Main::init">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,88,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="467,29,556,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,39,453,39,453,45,88,45"/>
+<area shape="rect" id="Node000003" href="$classMain.html#a6efdee24ab4e25c89bda9124bd8d2482" title=" " alt="" coords="136,55,231,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="89,47,123,53,122,59,88,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="484,31,478,21,481,11,493,5,511,3,534,6,543,15,540,19,531,11,511,8,494,10,485,15,484,20,489,28"/>
+<area shape="rect" id="Node000004" href="$classFigureEditor.html#a54353760f23ae9951f3f48745412021b" title=" " alt="" coords="279,55,419,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="231,65,265,65,265,70,231,70"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="418,54,452,48,453,54,419,59"/>
+</map>

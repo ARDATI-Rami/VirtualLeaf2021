@@ -1,0 +1,14 @@
+<map id="svg_to_vl.cellmodel.Mesh.reduceParallelWalls" name="svg_to_vl.cellmodel.Mesh.reduceParallelWalls">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,40,244,80"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="840,48,929,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,38,292,26,432,11,543,4,653,7,793,26,843,40,841,45,791,31,652,12,543,9,433,17,292,31,214,43"/>
+<area shape="rect" id="Node000003" href="$classsvg__to__vl_1_1cellmodel_1_1Mesh.html#a740578372769e3904702bf56ebb52de6" title=" " alt="" coords="292,40,515,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="244,58,278,58,278,63,244,63"/>
+<area shape="rect" id="Node000005" href="$classsvg__to__vl_1_1cellmodel_1_1Mesh.html#aa8bbd87783a578becc872184344edce7" title=" " alt="" coords="563,104,792,144"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="221,78,292,90,425,105,549,114,549,120,424,110,292,95,220,83"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="851,49,844,39,847,29,861,23,885,21,913,25,925,34,921,38,911,30,885,26,863,28,851,33,849,38,855,46"/>
+<area shape="rect" id="Node000004" href="$classsvg__to__vl_1_1cellmodel_1_1Mesh.html#ae7916df06cec2aa2627ccd59535f0d6c" title=" " alt="" coords="566,40,789,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="515,58,552,58,552,63,515,63"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="789,58,827,58,827,63,789,63"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="752,102,791,90,835,75,836,80,793,95,753,107"/>
+</map>

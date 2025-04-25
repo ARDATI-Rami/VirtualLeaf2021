@@ -1,0 +1,16 @@
+<map id="Rouges_model::CellHouseKeeping" name="Rouges_model::CellHouseKeeping">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,249,129"/>
+<area shape="rect" id="Node000002" href="$classCellBase.html#addbe5f0e71ef6dd19a5603756f804fa6" title=" " alt="" coords="342,5,459,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,101,217,71,296,39,328,30,329,35,298,45,219,76,155,106"/>
+<area shape="rect" id="Node000003" href="$classCellBase.html#ad8777b3ccb5026227e17d0a3e0ae5717" title=" " alt="" coords="326,55,475,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,101,315,80,316,85,199,107"/>
+<area shape="rect" id="Node000004" href="$classCellBase.html#a9d23b63ec2196a0cbfd63a4b73983ae4" title=" " alt="" coords="329,104,472,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,114,316,114,316,119,249,119"/>
+<area shape="rect" id="Node000005" href="$classCellBase.html#a8b83d266d2d1714da83c0217af033ea4" title=" " alt="" coords="336,153,465,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="199,127,323,149,322,155,198,132"/>
+<area shape="rect" id="Node000006" href="$classCellBase.html#a7aafe1e9ebac4c71138999424a9352a0" title=" " alt="" coords="297,203,504,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="156,127,220,157,298,187,329,197,327,202,296,193,218,162,153,132"/>
+<area shape="rect" id="Node000007" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="552,203,641,228"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="504,213,538,213,538,218,504,218"/>
+<area shape="poly" id="edge7_Node000007_Node000007" title=" " alt="" coords="565,204,558,194,561,184,575,178,597,176,623,180,635,188,631,193,621,184,597,181,576,183,565,188,563,194,569,201"/>
+</map>

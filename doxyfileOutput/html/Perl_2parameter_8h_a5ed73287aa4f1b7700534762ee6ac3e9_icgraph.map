@@ -1,0 +1,33 @@
+<map id="sbool" name="sbool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1113,89,1171,114"/>
+<area shape="rect" id="Node000002" href="$classParameterDialog.html#a847432aa1d57c813eb54d7d08fdc2637" title=" " alt="" coords="389,5,596,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1114,82,1091,66,1064,53,1004,33,951,21,904,16,859,15,764,21,644,27,596,27,596,22,644,21,764,16,859,10,904,11,952,16,1005,28,1066,48,1093,62,1117,78"/>
+<area shape="rect" id="Node000003" href="$classParameterDialog.html#a9de6b8ad6285bf4545a2f04fac82da2a" title=" " alt="" coords="889,63,1065,89"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1099,98,1059,91,1060,86,1100,92"/>
+<area shape="rect" id="Node000005" href="$classParameter.html#a8fabaf154ed7c1a31b345cd6bc356d18" title=" " alt="" coords="911,113,1043,138"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="1100,110,1044,118,1043,113,1099,105"/>
+<area shape="rect" id="Node000007" href="$classParameter.html#abc751a4dc85a850aefaff416f21a13ab" title=" " alt="" coords="902,170,1053,195"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="1113,124,1067,152,1018,172,1015,168,1064,147,1110,120"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="903,63,841,53,714,40,596,32,596,27,714,35,842,48,904,58"/>
+<area shape="rect" id="Node000004" href="$classParameterDialog.html#a66728099de9394a941f60f2c82ae7dd7" title=" " alt="" coords="657,63,829,89"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="875,79,829,79,829,73,875,73"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="665,63,591,48,593,43,666,58"/>
+<area shape="rect" id="Node000006" href="$classMain.html#a60f43893cc7b1c049448dd3a22a7c22a" title=" " alt="" coords="683,113,803,138"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="897,128,803,128,803,123,897,123"/>
+<area shape="rect" id="Node000008" href="$classTissueGenerator.html#a1df5a2a4c63c070a81f16ff19e983fcd" title=" " alt="" coords="644,163,841,203"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="888,185,841,185,841,180,888,180"/>
+<area shape="rect" id="Node000012" href="$classMesh.html#a6fd730c595133e4e9eccfe1b1d4e11ac" title=" " alt="" coords="680,227,805,253"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="912,201,796,230,795,225,911,196"/>
+<area shape="rect" id="Node000009" href="$classTissueGenerator.html#ae13d4f703db5dc2fa31a0f7d86779847" title=" " alt="" coords="394,163,591,203"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="631,185,592,185,592,180,631,180"/>
+<area shape="rect" id="Node000010" href="$classMain.html#ab341d76ec20edbd746832a88d95fc6ba" title=" " alt="" coords="148,179,341,205"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="380,190,342,191,342,186,380,184"/>
+<area shape="rect" id="Node000011" href="$classMain.html#a71c203ef611a70fb61bc2ad369013711" title=" " alt="" coords="5,225,100,250"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="177,211,101,229,100,224,176,205"/>
+<area shape="rect" id="Node000013" href="$classMainBase.html#adccb564a9eaf49ccec2207c7ad7ca019" title=" " alt="" coords="433,227,552,253"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="666,243,552,243,552,237,666,237"/>
+<area shape="rect" id="Node000014" href="$classMain.html#afd7b636a306ee97c11e780ef886e8dd1" title=" " alt="" coords="167,261,322,286"/>
+<area shape="poly" id="edge15_Node000012_Node000014" title=" " alt="" coords="667,258,596,268,451,276,322,278,322,272,450,271,596,263,666,253"/>
+<area shape="poly" id="edge16_Node000014_Node000011" title=" " alt="" coords="163,261,100,249,101,244,164,256"/>
+<area shape="poly" id="edge17_Node000014_Node000014" title=" " alt="" coords="279,250,269,242,245,239,224,241,214,246,211,252,217,259,213,262,206,252,210,242,223,236,245,234,271,238,282,246"/>
+</map>

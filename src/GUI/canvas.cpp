@@ -1734,4 +1734,5 @@ void Main::GenerateNewTissue()
         statusBar()->showMessage(status_message);
     }
 }
+
 /* finis */

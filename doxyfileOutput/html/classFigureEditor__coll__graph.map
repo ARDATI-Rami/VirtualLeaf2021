@@ -1,0 +1,31 @@
+<map id="FigureEditor" name="FigureEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="156,299,256,324"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,211,127,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,241,188,296,186,301,95,246"/>
+<area shape="rect" id="Node000003" href="$classMesh.html" title=" " alt="" coords="317,211,375,236"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="317,246,226,301,224,296,314,241"/>
+<area shape="rect" id="Node000007" href="$classCell.html" title=" " alt="" coords="501,299,548,324"/>
+<area shape="poly" id="edge12_Node000007_Node000003" title=" " alt="" coords="383,240,502,296,500,301,381,244"/>
+<area shape="rect" id="Node000004" href="$classunique__queue.html" title=" " alt="" coords="75,108,249,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="170,145,180,167,194,184,243,199,318,214,317,219,242,204,191,189,175,169,165,148"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="81,5,243,45"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="165,59,165,108,159,108,159,59"/>
+<area shape="rect" id="Node000006" href="$classBoundaryPolygon.html" title=" " alt="" coords="299,373,435,399"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="361,360,345,237,350,236,367,359"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="490,331,394,376,392,371,488,327"/>
+<area shape="rect" id="Node000008" href="$classCellBase.html" title=" " alt="" coords="491,211,569,236"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="531,250,528,298,523,298,526,250"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="443,108,518,133"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="495,144,527,209,522,212,490,147"/>
+<area shape="rect" id="Node000010" href="$classVector.html" title=" " alt="" coords="543,108,605,133"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="558,146,551,158,541,186,535,211,529,210,536,185,546,156,554,144"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="566,147,537,212,533,210,561,145"/>
+<area shape="rect" id="Node000011" href="$classCellsStaticDatamembers.html" title=" " alt="" coords="630,108,814,133"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="704,146,679,168,649,189,609,206,570,217,569,212,607,201,646,184,675,164,700,142"/>
+<area shape="rect" id="Node000012" href="$classSimPluginInterface.html" title=" " alt="" coords="273,108,419,133"/>
+<area shape="poly" id="edge13_Node000003_Node000012" title=" " alt="" coords="349,147,349,211,343,211,343,147"/>
+<area shape="rect" id="Node000013" href="$classParameter.html" title=" " alt="" coords="301,13,391,38"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="349,52,349,108,343,108,343,52"/>
+<area shape="rect" id="Node000014" href="$classSimItemBase.html" title=" " alt="" coords="151,211,261,236"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="209,250,209,298,203,298,203,250"/>
+</map>

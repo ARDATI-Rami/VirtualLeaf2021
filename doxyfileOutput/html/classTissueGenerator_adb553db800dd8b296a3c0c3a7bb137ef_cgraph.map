@@ -1,0 +1,21 @@
+<map id="TissueGenerator::AddHexagons" name="TissueGenerator::AddHexagons">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,159,232,185"/>
+<area shape="rect" id="Node000002" href="$classTissueGenerator.html#ae69efd234619f39946d68571ab17c0a3" title=" " alt="" coords="280,5,504,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,157,196,112,279,62,310,48,312,53,281,66,199,116,138,161"/>
+<area shape="rect" id="Node000003" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="552,159,641,185"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="142,157,203,129,241,115,279,105,342,93,393,87,443,90,505,105,543,124,574,148,571,152,540,129,503,111,442,95,393,92,343,98,281,111,242,120,205,134,145,162"/>
+<area shape="rect" id="Node000004" href="$classTissueGenerator.html#a24c3eba4aa3a834cb3fabc4342c11ae3" title=" " alt="" coords="299,120,485,160"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="227,157,284,150,285,155,228,162"/>
+<area shape="rect" id="Node000005" href="$classTissueGenerator.html#a181a812acec9f46a43eb93b559df35fa" title=" " alt="" coords="294,184,490,224"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="228,182,281,188,280,194,227,187"/>
+<area shape="rect" id="Node000006" href="$classTissueGenerator.html#a50bcccc0fc5e71b39caa11ab5b5773aa" title=" " alt="" coords="297,248,487,288"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="150,182,281,233,305,241,303,246,279,239,148,187"/>
+<area shape="rect" id="Node000007" href="$classTissueGenerator.html#a6bade3671ea7ee21f556bdfac128fd51" title=" " alt="" coords="293,312,491,352"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="134,183,194,238,236,270,281,298,296,304,294,309,279,302,233,274,191,242,131,187"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,43,505,62,529,81,550,103,583,146,578,149,546,107,526,85,503,66,467,48"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="563,161,556,151,560,141,574,135,597,133,625,136,636,146,633,150,623,141,597,138,575,140,564,145,561,150,568,158"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="486,152,539,160,538,166,485,157"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="490,186,538,178,539,184,491,191"/>
+<area shape="poly" id="edge9_Node000006_Node000003" title=" " alt="" coords="473,246,503,234,538,213,568,191,571,196,541,218,505,238,475,250"/>
+<area shape="poly" id="edge12_Node000007_Node000003" title=" " alt="" coords="481,310,502,298,528,275,550,248,582,196,586,198,555,251,532,279,506,302,484,314"/>
+</map>

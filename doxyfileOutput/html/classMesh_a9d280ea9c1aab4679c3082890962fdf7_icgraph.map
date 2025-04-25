@@ -1,0 +1,9 @@
+<map id="Mesh::CutAwaySAM" name="Mesh::CutAwaySAM">
+<area shape="rect" id="Node000001" title=" " alt="" coords="505,5,659,31"/>
+<area shape="rect" id="Node000002" href="$classMainBase.html#a81f0af46cfd675c2742dcbf3db3c7035" title=" " alt="" coords="311,5,457,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,21,457,21,457,15,492,15"/>
+<area shape="rect" id="Node000003" href="$classMain.html#aa2042023d7f09a248bcefdb1178f171d" title=" " alt="" coords="148,5,263,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="297,21,263,21,263,15,297,15"/>
+<area shape="rect" id="Node000004" href="$classMain.html#a71c203ef611a70fb61bc2ad369013711" title=" " alt="" coords="5,5,100,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="134,21,100,21,100,15,134,15"/>
+</map>

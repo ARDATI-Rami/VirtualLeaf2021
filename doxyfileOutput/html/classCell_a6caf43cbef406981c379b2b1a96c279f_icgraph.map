@@ -1,0 +1,15 @@
+<map id="Cell::SetMagnification" name="Cell::SetMagnification">
+<area shape="rect" id="Node000001" title=" " alt="" coords="653,32,817,58"/>
+<area shape="rect" id="Node000002" href="$classMain.html#a381cb3c78c33ed5e9135d2929ce9856d" title=" " alt="" coords="8,59,161,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="655,33,564,20,453,10,332,10,272,15,213,23,157,40,111,61,109,56,155,35,211,18,271,9,332,5,454,5,565,14,656,27"/>
+<area shape="rect" id="Node000003" href="$classMesh.html#a1f3424e08a16399c83a082db3f321e62" title=" " alt="" coords="415,58,605,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="640,58,606,62,605,57,639,53"/>
+<area shape="rect" id="Node000004" href="$classMesh.html#a8e7da4d26c2971f26ae280aad3aa9569" title=" " alt="" coords="212,34,367,59"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,61,366,57,367,52,401,56"/>
+<area shape="rect" id="Node000005" href="$classMesh.html#a4b120941119fc5f1c65be8379a38247c" title=" " alt="" coords="226,83,353,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="401,85,353,91,353,86,400,80"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="212,89,161,83,162,78,212,84"/>
+<area shape="rect" id="Node000006" href="$classMesh.html#ad282ded34b9d8e45ab1e0e8b201009b6" title=" " alt="" coords="5,108,164,134"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="213,108,164,114,164,108,212,102"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="178,126,269,127,366,118,428,101,481,81,483,85,430,106,367,124,270,133,178,131"/>
+</map>

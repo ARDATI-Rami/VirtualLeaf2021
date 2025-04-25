@@ -1,0 +1,27 @@
+ Doxygen configuration file
+
+PROJECT_NAME           = "VirtualLeaf2021"
+OUTPUT_DIRECTORY       = doxyfileOutput
+INPUT                  = src
+RECURSIVE              = YES
+
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+EXTRACT_LOCAL_METHODS  = YES
+
+HAVE_DOT               = YES
+DOT_PATH               = /usr/bin/dot
+CLASS_DIAGRAMS         = YES
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+DOT_MULTI_TARGETS      = YES
+
+GENERATE_LATEX         = NO
+GENERATE_HTML          = YES
+GENERATE_TREEVIEW      = YES
+
+FULL_PATH_NAMES        = NO
+QUIET                  = NO
+WARN_IF_UNDOCUMENTED   = NO

@@ -1,0 +1,7 @@
+<map id="getBaseLength" name="getBaseLength">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,124,56"/>
+<area shape="rect" id="Node000002" href="$classWallElement.html#ac7d932ef9cda071d40e8df0b3bed3588" title=" " alt="" coords="172,5,381,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,34,158,30,159,35,125,39"/>
+<area shape="rect" id="Node000003" href="$classNodeBase.html#a72c1b09be9b26f93433f181a60c0d6b9" title=" " alt="" coords="177,55,376,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,47,164,52,163,57,124,53"/>
+</map>

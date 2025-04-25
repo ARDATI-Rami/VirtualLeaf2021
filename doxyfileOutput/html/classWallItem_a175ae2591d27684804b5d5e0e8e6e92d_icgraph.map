@@ -1,0 +1,12 @@
+<map id="WallItem::getWall" name="WallItem::getWall">
+<area shape="rect" id="Node000001" title=" " alt="" coords="625,37,763,62"/>
+<area shape="rect" id="Node000002" href="$classWallItem.html#a558ab4a7941778b4d9c59af11ec50c06" title=" " alt="" coords="244,13,383,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="611,47,383,32,383,27,612,42"/>
+<area shape="rect" id="Node000004" href="$classWallItem.html#a40feffdc7043d1627f10d11452e11c5c" title=" " alt="" coords="435,62,577,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="612,63,578,68,577,62,612,58"/>
+<area shape="rect" id="Node000003" href="$classFigureEditor.html#ad46e325fc23ce1c9614e73149b3fb7d8" title=" " alt="" coords="5,5,192,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,28,192,28,192,23,230,23"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="442,61,363,41,365,36,443,56"/>
+<area shape="rect" id="Node000005" href="$classWallItem.html#a4b0a8e5e900cd34ae403bacd8bec36ca" title=" " alt="" coords="240,62,387,87"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="421,77,387,77,387,72,421,72"/>
+</map>

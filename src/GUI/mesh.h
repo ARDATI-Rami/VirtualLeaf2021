@@ -444,8 +444,9 @@ class Mesh {
   void CSVExportCellData(QTextStream &csv_stream) const;
   void CSVExportWallData(QTextStream &csv_stream) const;
   void CSVExportMeshData(QTextStream &csv_stream);
-  
+
   Node* findNextBoundaryNode(Node*);
+  static double CalculateHamiltonian(Mesh* mesh, double lambda_a = 1.0, double lambda_l = 1.0);
 
  private:
   list<Node *>* cellNodes(Cell * cell) ;

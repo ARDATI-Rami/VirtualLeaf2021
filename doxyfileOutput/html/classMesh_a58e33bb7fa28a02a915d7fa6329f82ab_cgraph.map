@@ -1,0 +1,8 @@
+<map id="Mesh::CleanTransporters" name="Mesh::CleanTransporters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,188,80"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="259,29,348,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,54,244,46,245,52,188,59"/>
+<area shape="rect" id="Node000003" href="$classCellBase.html#a68c5c922a198479bd2634defaad28e87" title=" " alt="" coords="236,79,371,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="188,75,223,79,222,85,188,81"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="270,31,262,21,266,11,280,5,303,3,332,6,343,15,340,20,330,11,303,8,281,10,270,15,268,20,274,28"/>
+</map>

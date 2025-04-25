@@ -1,0 +1,12 @@
+<map id="svg_to_vl.cellmodel.Cell.addCloseWallGap" name="svg_to_vl.cellmodel.Cell.addCloseWallGap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,215,67"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="520,35,609,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,24,262,13,368,3,414,5,473,13,523,27,521,32,471,18,413,10,368,8,263,18,191,30"/>
+<area shape="rect" id="Node000003" href="$classsvg__to__vl_1_1cellmodel_1_1Cell.html#a5a9eac908108d79080b7da1df5f45f03" title=" " alt="" coords="263,27,472,67"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="215,45,249,45,249,50,215,50"/>
+<area shape="rect" id="Node000004" href="$classsvg__to__vl_1_1cellmodel_1_1Cell.html#aef820ab9c6c5ef09de53a1ef75255352" title=" " alt="" coords="269,91,465,131"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="192,65,274,85,273,90,191,70"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="532,36,525,26,529,16,542,10,565,8,592,11,603,20,600,24,590,16,565,13,544,15,533,20,530,25,536,33"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="472,45,506,45,506,50,472,50"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="434,89,471,77,514,62,516,67,473,82,436,94"/>
+</map>

@@ -41,6 +41,13 @@
 #include <QObject>
 #include <QMouseEvent>
 
+enum DivisionAxisType { // Division selon un axe bien défini,  Rajout Rouges 2025
+  SHORTEST_AXIS = 0,
+  LONGEST_AXIS = 1,
+  RANDOM_AXIS = 2,
+  MECHANICAL_AXIS = 3
+};
+
 class Cell : public CellBase 
 {
 
@@ -88,18 +95,25 @@ class Cell : public CellBase
     factor*=scale;
     return factor;
   }
+  void Divide(void); // Divide cell over a chosen axis, Rajout Rouges 2025
+    Vector CalculateDivisionAxis(void);
 
   void DivideOverAxis(Vector axis); // divide cell over axis
 
   // divide over the line (if line and cell intersect)
   bool DivideOverGivenLine(const Vector v1, const Vector v2, bool wall_fixed = false, NodeSet *node_set = 0);
 
-  void Divide(void) { // Divide cell over short axis
 
-    Vector long_axis; 
-    Length(&long_axis); 
-    DivideOverAxis(long_axis.Perp2D()); 
+  /*void Divide(void) { // Divide cell over short axis
+
+    Vector long_axis;
+    Length(&long_axis);
+    DivideOverAxis(long_axis.Perp2D());
   }
+*/
+
+
+
 
   //void CheckForGFDrivenDivision(void);
   inline int NNodes(void) const { return nodes.size(); }

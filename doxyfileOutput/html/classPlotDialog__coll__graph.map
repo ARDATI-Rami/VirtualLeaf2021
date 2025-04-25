@@ -1,0 +1,11 @@
+<map id="PlotDialog" name="PlotDialog">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,181,109,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,80,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,131,64,180,58,181,46,133"/>
+<area shape="rect" id="Node000003" href="$classDataPlot.html" title=" " alt="" coords="105,93,183,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,131,77,183,73,179,122,127"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="51,5,125,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,41,138,91,134,94,101,44"/>
+<area shape="rect" id="Node000005" href="$classCurveColors.html" title=" " alt="" coords="149,5,251,31"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="187,44,154,94,150,91,183,41"/>
+</map>

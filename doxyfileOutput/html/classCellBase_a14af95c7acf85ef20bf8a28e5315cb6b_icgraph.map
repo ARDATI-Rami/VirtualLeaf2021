@@ -1,0 +1,12 @@
+<map id="CellBase::getOtherWallElementSide" name="CellBase::getOtherWallElementSide">
+<area shape="rect" id="Node000001" title=" " alt="" coords="735,45,989,70"/>
+<area shape="rect" id="Node000002" href="$classCellWallCurve.html#ae1d9d82b1b7ba262e98d056a7c0fad8a" title=" " alt="" coords="497,37,687,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="721,60,687,60,687,55,721,55"/>
+<area shape="rect" id="Node000003" href="$classCellWallCurve.html#a5ad833c9638f772b9fcab3a7864559e8" title=" " alt="" coords="260,5,449,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="484,45,449,41,450,35,484,40"/>
+<area shape="rect" id="Node000005" href="$classCellWallCurve.html#a3ee0bdfbd166030b884b1d14ec0fbeb9" title=" " alt="" coords="260,69,449,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="484,75,450,79,449,74,484,69"/>
+<area shape="rect" id="Node000004" href="$classCellWallCurve.html#a1672d365d0f34c4478d3c3b415ad8269" title=" " alt="" coords="5,45,212,70"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,42,207,47,206,42,246,37"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="246,78,206,73,207,67,247,73"/>
+</map>

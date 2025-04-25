@@ -1,0 +1,16 @@
+<map id="Rouges_model::SetCellColor" name="Rouges_model::SetCellColor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,212,84"/>
+<area shape="rect" id="Node000002" href="$classCellBase.html#a9d23b63ec2196a0cbfd63a4b73983ae4" title=" " alt="" coords="263,9,405,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,56,261,35,263,40,168,61"/>
+<area shape="rect" id="Node000003" href="$classCellBase.html#a02fcda676206ce90bf91c70fa4d92f26" title=" " alt="" coords="260,59,408,84"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,69,246,69,246,74,212,74"/>
+<area shape="rect" id="Node000004" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="659,83,748,108"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="182,82,260,94,436,123,512,126,610,118,652,109,653,115,611,123,512,132,435,128,260,99,181,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="378,56,407,45,430,30,455,18,499,8,534,3,569,6,612,18,652,41,684,70,680,74,649,46,610,23,568,11,534,8,500,13,457,23,433,35,409,50,379,61"/>
+<area shape="rect" id="Node000005" href="$classCellBase.html#a68c5c922a198479bd2634defaad28e87" title=" " alt="" coords="466,33,601,59"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="408,59,452,54,453,59,408,65"/>
+<area shape="rect" id="Node000006" href="$namespaceMyWarning.html#abdca39d13507c6088a112809f38248e3" title=" " alt="" coords="456,83,611,108"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="408,78,443,82,442,87,408,83"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="675,84,669,74,672,65,684,58,703,56,726,60,736,68,733,72,724,64,703,61,686,63,677,68,675,74,680,81"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="611,93,645,93,645,98,611,98"/>
+</map>

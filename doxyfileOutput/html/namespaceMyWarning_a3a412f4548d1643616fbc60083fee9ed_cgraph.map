@@ -1,0 +1,9 @@
+<map id="MyWarning::unique_warning" name="MyWarning::unique_warning">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,212,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="463,29,552,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,39,449,39,449,45,212,45"/>
+<area shape="rect" id="Node000003" href="$namespaceMyWarning.html#abdca39d13507c6088a112809f38248e3" title=" " alt="" coords="260,55,415,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="213,51,247,55,246,60,212,56"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="479,31,473,21,476,11,488,5,507,3,530,6,540,15,537,19,528,11,507,8,490,10,481,15,479,20,484,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="415,53,448,48,449,53,415,58"/>
+</map>

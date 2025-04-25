@@ -1,0 +1,20 @@
+<map id="MainBase::XMLReadSettings" name="MainBase::XMLReadSettings">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,68,213,93"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="980,118,1069,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,65,291,35,383,20,487,8,597,3,711,7,824,22,879,35,933,52,954,63,974,76,1006,106,1002,110,971,80,952,67,931,57,878,41,823,28,710,12,597,8,487,13,384,25,292,40,157,70"/>
+<area shape="rect" id="Node000003" href="$xmlwrite_8h.html#afcb10a0243f40482cb73222c5a773e46" title=" " alt="" coords="815,68,895,93"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="214,78,801,78,801,83,214,83"/>
+<area shape="rect" id="Node000004" href="$classMainBase.html#a71914b55a6855315daca741a6a731ed5" title=" " alt="" coords="261,144,475,169"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="154,90,312,137,310,142,153,96"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="997,120,991,110,994,100,1005,94,1025,92,1048,95,1058,104,1054,108,1045,100,1025,97,1007,99,998,104,996,109,1001,117"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="896,89,969,112,968,117,894,95"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="475,150,966,130,966,136,475,155"/>
+<area shape="rect" id="Node000005" href="$namespaceMyWarning.html#add7e76ba13173e6279654723eb8aa734" title=" " alt="" coords="559,169,693,194"/>
+<area shape="poly" id="edge7_Node000004_Node000005" title=" " alt="" coords="475,164,545,171,545,176,475,169"/>
+<area shape="rect" id="Node000006" href="$namespaceMyWarning.html#a3a412f4548d1643616fbc60083fee9ed" title=" " alt="" coords="523,218,729,244"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="406,167,523,204,554,213,553,218,522,210,404,172"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="682,216,729,204,966,143,967,149,730,210,683,221"/>
+<area shape="rect" id="Node000007" href="$namespaceMyWarning.html#abdca39d13507c6088a112809f38248e3" title=" " alt="" coords="777,220,932,245"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="730,229,764,229,764,234,730,234"/>
+<area shape="poly" id="edge11_Node000007_Node000002" title=" " alt="" coords="890,217,931,198,966,175,996,151,1000,155,969,179,933,203,892,222"/>
+</map>

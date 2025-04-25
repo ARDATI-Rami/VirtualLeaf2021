@@ -1,0 +1,9 @@
+<map id="Main::EditParameters" name="Main::EditParameters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,167,55"/>
+<area shape="rect" id="Node000002" href="$simitembase_8h.html#a6fdfa37d10430d32ee547c812dcc27ee" title=" " alt="" coords="409,29,499,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,39,395,39,395,45,167,45"/>
+<area shape="rect" id="Node000003" href="$classMain.html#aa41a8fa3fbb6eaa68e76caab2b253fdf" title=" " alt="" coords="215,55,361,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="167,49,201,54,200,59,166,55"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="426,31,420,21,424,11,435,5,454,3,477,6,486,15,483,19,474,11,454,8,437,10,428,15,426,20,431,28"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="361,54,395,48,396,53,362,59"/>
+</map>
