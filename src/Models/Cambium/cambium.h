@@ -24,7 +24,10 @@
 #include <QObject>
 #include <QtGui>
 #include <QString>
+#include <set>
 #include "simplugin.h"
+
+
 
 
 class cambium : public QObject, SimPluginInterface {
@@ -39,7 +42,8 @@ public:
 	// Executed after the cellular mechanics steps have equillibrized
 	virtual void CellHouseKeeping (CellBase *c);
 
-	//virtual void SetCellTypeProperties(CellBase *c);
+    virtual void AfficherNoeuds (CellBase *c);
+
 
 	// Differential equations describing transport of chemicals from cell to cell
 	virtual void CelltoCellTransport(Wall *w, double *dchem_c1, double *dchem_c2);
@@ -60,9 +64,13 @@ public:
 	virtual int NChem(void);
 	virtual QString DefaultLeafML(void) { return QString("cambium_updated.xml"); }
 
+	virtual void SetCellTypeProperties(CellBase *c);
+
 private:
 	// bark_cells should be defined in cambium.h, not here
      std::vector<int> bark_cells;
+     std::set<int> special_division_cells;  // Pour stocker les ID des cellules qui doivent se diviser de manière spéciale
+
 
 };
 

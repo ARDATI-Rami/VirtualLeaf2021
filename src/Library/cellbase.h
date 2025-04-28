@@ -110,8 +110,9 @@ class CellBase :  public QObject, public Vector
   }
 
   CellBase(const CellBase &src); // copy constructor
-  virtual bool BoundaryPolP(void) const { return false; } 
+  virtual bool BoundaryPolP(void) const { return false; }
 
+  const list<Node *>& getNodes() const { return nodes; } // Ajout Rouges 2025
 
   CellBase operator=(const CellBase &src); // assignment operator
   CellBase operator=(const Vector &src);
